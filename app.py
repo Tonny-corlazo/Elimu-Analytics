@@ -14,10 +14,15 @@ sns.set_theme(
 )
 
 # ─── PAGE SETUP ───
-st.set_page_config(page_title="Elimu Analytics", layout="wide")
+st.set_page_config(
+    page_title="Elimu Analytics", 
+    layout="wide",
+    page_icon="🎓"
+    )
 
 # ─── TITLE ───
 st.title("🎓 Elimu Analytics")
+st.caption("Class 3A - Academic Perfomance Report")
 st.write("Upload a class marks CSV to generate the report.")
 
 # ─── UPLOAD ───
@@ -49,6 +54,25 @@ col3.metric("Subjects", df["subject"].nunique())
 col4.metric("Exams", df["exam_num"].nunique())
 
 st.divider()
+
+# ========== TOP STUDENT =============
+st.subheader("🎓 Top Student")
+
+top_student_name = df.groupby(["name"])["percentage"].mean().idxmax()
+top_student_mean = df.groupby("name")["percentage"].mean().sort_values(ascending=False).reset_index().max()
+
+top_student = df.groupby(["student_id"])["percentage"].mean().idxmax()
+top_marks = df[df["student_id"] == top_student]
+
+modified = top_marks.groupby("subject")["percentage"].mean().reset_index()
+
+
+st.caption(f"🎓 {top_student_name} {top_student_mean["percentage"]}")
+
+fig, ax = plt.subplots(figsize=(10, 4))
+sns.barplot(data=modified, x="subject", y="percentage", ax=ax, errorbar=None, palette="viridis", hue="subject")
+
+st.pyplot(fig)
 
 # ─── TABS ───
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Overview", "📈 Trends", "⚠️ At-Risk", "Top Students", "Gender Perfomance"])
