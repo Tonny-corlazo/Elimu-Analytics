@@ -1,0 +1,1441 @@
+student_id,name,class,gender,term,exam_type,exam_date,subject,marks,out_of
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,Mathematics,69.5,100
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,Physics,73.9,100
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,Chemistry,74.8,100
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,Biology,75.6,100
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,English,76.6,100
+1001,Alice Kariuki,3A,F,1,Opener,2026-01-15,Kiswahili,71.0,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,Mathematics,66.7,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,Physics,73.4,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,Chemistry,73.1,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,Biology,77.3,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,English,66.2,100
+1001,Alice Kariuki,3A,F,1,End Term,2026-04-01,Kiswahili,77.5,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,Mathematics,70.2,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,Physics,77.9,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,Chemistry,75.1,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,Biology,76.4,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,English,73.6,100
+1001,Alice Kariuki,3A,F,2,Opener,2026-05-10,Kiswahili,76.3,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,Mathematics,76.5,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,Physics,81.0,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,Chemistry,72.6,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,Biology,83.4,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,English,75.6,100
+1001,Alice Kariuki,3A,F,2,End Term,2026-07-28,Kiswahili,79.3,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,Mathematics,78.4,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,Physics,76.4,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,Chemistry,76.2,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,Biology,79.7,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,English,86.2,100
+1001,Alice Kariuki,3A,F,3,Opener,2026-09-05,Kiswahili,84.2,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,Mathematics,78.5,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,Physics,82.7,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,Chemistry,79.8,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,Biology,85.1,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,English,83.7,100
+1001,Alice Kariuki,3A,F,3,End Term,2026-11-15,Kiswahili,88.8,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,Mathematics,64.0,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,Physics,60.9,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,Chemistry,62.2,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,Biology,44.0,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,English,51.1,100
+1002,Cara Njeri,3A,F,1,Opener,2026-01-15,Kiswahili,83.6,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,Mathematics,85.3,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,Physics,65.4,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,Chemistry,71.4,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,Biology,69.2,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,English,94.2,100
+1002,Cara Njeri,3A,F,1,End Term,2026-04-01,Kiswahili,82.9,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,Mathematics,70.8,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,Physics,60.5,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,Chemistry,53.2,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,Biology,69.8,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,English,61.0,100
+1002,Cara Njeri,3A,F,2,Opener,2026-05-10,Kiswahili,61.4,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,Mathematics,67.6,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,Physics,60.9,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,Chemistry,84.6,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,Biology,77.4,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,English,69.3,100
+1002,Cara Njeri,3A,F,2,End Term,2026-07-28,Kiswahili,89.3,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,Mathematics,75.7,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,Physics,64.5,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,Chemistry,84.6,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,Biology,75.9,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,English,61.6,100
+1002,Cara Njeri,3A,F,3,Opener,2026-09-05,Kiswahili,75.7,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,Mathematics,68.6,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,Physics,61.3,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,Chemistry,80.8,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,Biology,89.8,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,English,59.8,100
+1002,Cara Njeri,3A,F,3,End Term,2026-11-15,Kiswahili,84.0,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,Mathematics,36.6,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,Physics,40.6,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,Chemistry,37.6,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,Biology,37.0,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,English,48.6,100
+1003,Eve Onyango,3A,F,1,Opener,2026-01-15,Kiswahili,38.4,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,Mathematics,46.0,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,Physics,45.8,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,Chemistry,42.1,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,Biology,38.1,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,English,44.6,100
+1003,Eve Onyango,3A,F,1,End Term,2026-04-01,Kiswahili,53.6,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,Mathematics,49.4,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,Physics,39.2,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,Chemistry,46.5,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,Biology,53.9,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,English,36.5,100
+1003,Eve Onyango,3A,F,2,Opener,2026-05-10,Kiswahili,53.2,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,Mathematics,40.7,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,Physics,54.1,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,Chemistry,40.4,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,Biology,33.1,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,English,38.3,100
+1003,Eve Onyango,3A,F,2,End Term,2026-07-28,Kiswahili,50.3,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,Mathematics,50.2,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,Physics,42.7,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,Chemistry,54.0,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,Biology,35.8,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,English,53.3,100
+1003,Eve Onyango,3A,F,3,Opener,2026-09-05,Kiswahili,40.8,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,Mathematics,43.7,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,Physics,52.4,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,Chemistry,42.4,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,Biology,48.3,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,English,64.1,100
+1003,Eve Onyango,3A,F,3,End Term,2026-11-15,Kiswahili,47.7,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,Mathematics,73.3,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,Physics,59.4,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,Chemistry,70.1,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,Biology,86.7,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,English,44.4,100
+1004,Hana Kamau,3A,F,1,Opener,2026-01-15,Kiswahili,61.7,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,Mathematics,72.4,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,Physics,70.4,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,Chemistry,70.2,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,Biology,67.9,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,English,71.7,100
+1004,Hana Kamau,3A,F,1,End Term,2026-04-01,Kiswahili,69.8,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,Mathematics,80.0,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,Physics,76.6,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,Chemistry,71.5,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,Biology,71.5,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,English,67.6,100
+1004,Hana Kamau,3A,F,2,Opener,2026-05-10,Kiswahili,68.7,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,Mathematics,73.9,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,Physics,71.5,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,Chemistry,72.7,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,Biology,98.0,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,English,82.9,100
+1004,Hana Kamau,3A,F,2,End Term,2026-07-28,Kiswahili,71.4,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,Mathematics,83.7,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,Physics,73.3,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,Chemistry,51.1,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,Biology,68.9,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,English,57.1,100
+1004,Hana Kamau,3A,F,3,Opener,2026-09-05,Kiswahili,72.8,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,Mathematics,73.5,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,Physics,95.8,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,Chemistry,76.4,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,Biology,78.4,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,English,85.8,100
+1004,Hana Kamau,3A,F,3,End Term,2026-11-15,Kiswahili,55.9,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,Mathematics,74.7,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,Physics,73.5,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,Chemistry,51.7,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,Biology,84.7,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,English,72.5,100
+1005,Kim Ochieng,3A,F,1,Opener,2026-01-15,Kiswahili,63.8,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,Mathematics,77.7,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,Physics,87.6,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,Chemistry,67.4,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,Biology,74.9,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,English,63.6,100
+1005,Kim Ochieng,3A,F,1,End Term,2026-04-01,Kiswahili,58.6,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,Mathematics,78.8,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,Physics,55.5,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,Chemistry,65.4,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,Biology,66.8,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,English,72.1,100
+1005,Kim Ochieng,3A,F,2,Opener,2026-05-10,Kiswahili,69.5,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,Mathematics,80.0,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,Physics,58.0,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,Chemistry,61.1,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,Biology,60.9,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,English,62.0,100
+1005,Kim Ochieng,3A,F,2,End Term,2026-07-28,Kiswahili,69.0,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,Mathematics,76.3,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,Physics,53.0,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,Chemistry,71.6,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,Biology,83.3,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,English,69.6,100
+1005,Kim Ochieng,3A,F,3,Opener,2026-09-05,Kiswahili,83.1,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,Mathematics,60.1,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,Physics,48.9,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,Chemistry,44.2,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,Biology,83.8,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,English,71.1,100
+1005,Kim Ochieng,3A,F,3,End Term,2026-11-15,Kiswahili,62.9,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,Mathematics,99.0,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,Physics,87.7,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,Chemistry,99.0,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,Biology,99.0,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,English,99.0,100
+1006,Mia Kariuki,3A,F,1,Opener,2026-01-15,Kiswahili,99.0,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,Mathematics,99.0,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,Physics,98.4,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,Chemistry,96.0,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,Biology,99.0,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,English,99.0,100
+1006,Mia Kariuki,3A,F,1,End Term,2026-04-01,Kiswahili,99.0,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,Mathematics,99.0,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,Physics,94.7,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,Chemistry,96.0,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,Biology,99.0,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,English,99.0,100
+1006,Mia Kariuki,3A,F,2,Opener,2026-05-10,Kiswahili,99.0,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,Mathematics,89.9,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,Physics,99.0,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,Chemistry,99.0,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,Biology,99.0,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,English,99.0,100
+1006,Mia Kariuki,3A,F,2,End Term,2026-07-28,Kiswahili,88.8,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,Mathematics,99.0,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,Physics,99.0,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,Chemistry,96.7,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,Biology,95.7,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,English,99.0,100
+1006,Mia Kariuki,3A,F,3,Opener,2026-09-05,Kiswahili,99.0,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,Mathematics,99.0,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,Physics,92.0,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,Chemistry,99.0,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,Biology,99.0,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,English,90.1,100
+1006,Mia Kariuki,3A,F,3,End Term,2026-11-15,Kiswahili,99.0,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,Mathematics,61.8,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,Physics,68.9,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,Chemistry,78.8,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,Biology,77.2,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,English,61.3,100
+1007,Nia Wekesa,3A,F,1,Opener,2026-01-15,Kiswahili,57.1,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,Mathematics,86.8,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,Physics,65.1,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,Chemistry,64.9,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,Biology,69.1,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,English,66.8,100
+1007,Nia Wekesa,3A,F,1,End Term,2026-04-01,Kiswahili,66.7,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,Mathematics,62.0,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,Physics,61.5,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,Chemistry,66.1,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,Biology,66.3,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,English,60.7,100
+1007,Nia Wekesa,3A,F,2,Opener,2026-05-10,Kiswahili,70.4,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,Mathematics,66.2,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,Physics,80.3,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,Chemistry,45.6,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,Biology,81.5,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,English,78.6,100
+1007,Nia Wekesa,3A,F,2,End Term,2026-07-28,Kiswahili,53.6,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,Mathematics,67.0,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,Physics,66.1,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,Chemistry,57.6,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,Biology,67.4,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,English,60.4,100
+1007,Nia Wekesa,3A,F,3,Opener,2026-09-05,Kiswahili,87.2,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,Mathematics,79.2,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,Physics,81.4,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,Chemistry,77.0,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,Biology,65.9,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,English,66.8,100
+1007,Nia Wekesa,3A,F,3,End Term,2026-11-15,Kiswahili,78.2,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,Mathematics,61.0,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,Physics,75.8,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,Chemistry,68.9,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,Biology,68.6,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,English,79.4,100
+1008,Pia Wafula,3A,F,1,Opener,2026-01-15,Kiswahili,75.7,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,Mathematics,68.3,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,Physics,79.1,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,Chemistry,59.8,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,Biology,77.1,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,English,77.3,100
+1008,Pia Wafula,3A,F,1,End Term,2026-04-01,Kiswahili,67.5,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,Mathematics,74.0,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,Physics,54.9,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,Chemistry,78.1,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,Biology,68.5,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,English,65.6,100
+1008,Pia Wafula,3A,F,2,Opener,2026-05-10,Kiswahili,79.6,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,Mathematics,63.1,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,Physics,52.4,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,Chemistry,53.2,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,Biology,75.1,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,English,57.3,100
+1008,Pia Wafula,3A,F,2,End Term,2026-07-28,Kiswahili,85.4,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,Mathematics,48.8,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,Physics,81.3,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,Chemistry,69.3,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,Biology,67.3,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,English,63.4,100
+1008,Pia Wafula,3A,F,3,Opener,2026-09-05,Kiswahili,71.3,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,Mathematics,67.5,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,Physics,74.6,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,Chemistry,67.3,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,Biology,68.7,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,English,64.1,100
+1008,Pia Wafula,3A,F,3,End Term,2026-11-15,Kiswahili,66.0,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,Mathematics,73.5,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,Physics,56.1,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,Chemistry,59.3,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,Biology,73.6,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,English,66.2,100
+1009,Sara Kiptoo,3A,F,1,Opener,2026-01-15,Kiswahili,67.6,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,Mathematics,76.4,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,Physics,80.0,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,Chemistry,72.0,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,Biology,65.4,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,English,71.9,100
+1009,Sara Kiptoo,3A,F,1,End Term,2026-04-01,Kiswahili,66.0,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,Mathematics,85.3,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,Physics,67.1,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,Chemistry,91.5,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,Biology,82.1,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,English,77.9,100
+1009,Sara Kiptoo,3A,F,2,Opener,2026-05-10,Kiswahili,89.0,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,Mathematics,99.0,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,Physics,96.9,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,Chemistry,71.3,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,Biology,71.9,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,English,75.5,100
+1009,Sara Kiptoo,3A,F,2,End Term,2026-07-28,Kiswahili,85.9,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,Mathematics,97.2,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,Physics,86.8,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,Chemistry,94.9,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,Biology,82.0,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,English,81.1,100
+1009,Sara Kiptoo,3A,F,3,Opener,2026-09-05,Kiswahili,78.5,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,Mathematics,89.8,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,Physics,86.7,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,Chemistry,89.9,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,Biology,99.0,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,English,83.5,100
+1009,Sara Kiptoo,3A,F,3,End Term,2026-11-15,Kiswahili,99.0,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,Mathematics,55.0,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,Physics,57.5,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,Chemistry,47.1,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,Biology,56.9,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,English,52.0,100
+1010,Yara Kamau,3A,F,1,Opener,2026-01-15,Kiswahili,52.2,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,Mathematics,66.8,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,Physics,58.1,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,Chemistry,58.6,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,Biology,52.3,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,English,56.5,100
+1010,Yara Kamau,3A,F,1,End Term,2026-04-01,Kiswahili,62.0,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,Mathematics,53.7,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,Physics,69.1,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,Chemistry,58.5,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,Biology,54.9,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,English,61.7,100
+1010,Yara Kamau,3A,F,2,Opener,2026-05-10,Kiswahili,60.2,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,Mathematics,61.6,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,Physics,55.1,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,Chemistry,53.7,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,Biology,58.4,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,English,60.3,100
+1010,Yara Kamau,3A,F,2,End Term,2026-07-28,Kiswahili,60.5,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,Mathematics,61.5,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,Physics,58.2,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,Chemistry,60.9,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,Biology,64.4,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,English,65.3,100
+1010,Yara Kamau,3A,F,3,Opener,2026-09-05,Kiswahili,64.6,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,Mathematics,66.6,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,Physics,68.7,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,Chemistry,60.8,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,Biology,55.7,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,English,66.7,100
+1010,Yara Kamau,3A,F,3,End Term,2026-11-15,Kiswahili,62.5,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,Mathematics,85.4,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,Physics,74.7,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,Chemistry,78.6,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,Biology,90.6,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,English,78.9,100
+1011,Wanjiru Wekesa,3A,F,1,Opener,2026-01-15,Kiswahili,90.7,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,Mathematics,81.7,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,Physics,80.5,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,Chemistry,88.8,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,Biology,78.7,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,English,77.6,100
+1011,Wanjiru Wekesa,3A,F,1,End Term,2026-04-01,Kiswahili,81.5,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,Mathematics,76.7,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,Physics,76.2,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,Chemistry,82.2,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,Biology,76.8,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,English,82.5,100
+1011,Wanjiru Wekesa,3A,F,2,Opener,2026-05-10,Kiswahili,76.6,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,Mathematics,76.0,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,Physics,73.3,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,Chemistry,87.6,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,Biology,78.8,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,English,79.0,100
+1011,Wanjiru Wekesa,3A,F,2,End Term,2026-07-28,Kiswahili,70.8,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,Mathematics,76.6,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,Physics,79.3,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,Chemistry,77.0,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,Biology,81.9,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,English,67.3,100
+1011,Wanjiru Wekesa,3A,F,3,Opener,2026-09-05,Kiswahili,86.5,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,Mathematics,87.0,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,Physics,69.4,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,Chemistry,71.6,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,Biology,82.1,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,English,78.0,100
+1011,Wanjiru Wekesa,3A,F,3,End Term,2026-11-15,Kiswahili,72.4,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,Mathematics,73.1,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,Physics,73.7,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,Chemistry,71.0,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,Biology,76.5,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,English,71.1,100
+1012,Akinyi Kariuki,3A,F,1,Opener,2026-01-15,Kiswahili,78.9,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,Mathematics,77.0,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,Physics,78.2,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,Chemistry,84.8,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,Biology,78.6,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,English,81.3,100
+1012,Akinyi Kariuki,3A,F,1,End Term,2026-04-01,Kiswahili,83.5,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,Mathematics,79.4,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,Physics,82.3,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,Chemistry,76.8,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,Biology,86.4,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,English,80.5,100
+1012,Akinyi Kariuki,3A,F,2,Opener,2026-05-10,Kiswahili,88.7,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,Mathematics,83.2,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,Physics,91.7,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,Chemistry,81.1,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,Biology,85.3,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,English,79.9,100
+1012,Akinyi Kariuki,3A,F,2,End Term,2026-07-28,Kiswahili,87.1,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,Mathematics,82.0,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,Physics,89.2,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,Chemistry,91.6,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,Biology,87.6,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,English,81.5,100
+1012,Akinyi Kariuki,3A,F,3,Opener,2026-09-05,Kiswahili,93.5,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,Mathematics,84.8,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,Physics,89.5,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,Chemistry,89.3,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,Biology,86.3,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,English,93.2,100
+1012,Akinyi Kariuki,3A,F,3,End Term,2026-11-15,Kiswahili,99.0,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,Mathematics,69.0,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,Physics,74.7,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,Chemistry,78.2,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,Biology,84.1,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,English,81.8,100
+1013,Chebet Karanja,3A,F,1,Opener,2026-01-15,Kiswahili,99.0,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,Mathematics,71.6,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,Physics,69.1,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,Chemistry,60.5,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,Biology,72.1,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,English,73.5,100
+1013,Chebet Karanja,3A,F,1,End Term,2026-04-01,Kiswahili,95.8,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,Mathematics,66.6,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,Physics,77.3,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,Chemistry,72.0,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,Biology,89.1,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,English,96.6,100
+1013,Chebet Karanja,3A,F,2,Opener,2026-05-10,Kiswahili,71.7,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,Mathematics,65.3,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,Physics,83.6,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,Chemistry,77.1,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,Biology,93.8,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,English,76.2,100
+1013,Chebet Karanja,3A,F,2,End Term,2026-07-28,Kiswahili,71.7,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,Mathematics,74.1,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,Physics,82.6,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,Chemistry,76.8,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,Biology,79.2,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,English,79.2,100
+1013,Chebet Karanja,3A,F,3,Opener,2026-09-05,Kiswahili,84.8,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,Mathematics,80.1,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,Physics,76.5,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,Chemistry,65.6,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,Biology,74.1,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,English,78.9,100
+1013,Chebet Karanja,3A,F,3,End Term,2026-11-15,Kiswahili,64.0,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,Mathematics,61.0,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,Physics,55.0,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,Chemistry,59.9,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,Biology,69.7,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,English,60.7,100
+1014,Nafula Otieno,3A,F,1,Opener,2026-01-15,Kiswahili,58.7,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,Mathematics,51.3,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,Physics,66.0,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,Chemistry,67.1,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,Biology,78.8,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,English,59.8,100
+1014,Nafula Otieno,3A,F,1,End Term,2026-04-01,Kiswahili,62.7,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,Mathematics,65.7,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,Physics,74.8,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,Chemistry,64.5,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,Biology,68.0,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,English,69.2,100
+1014,Nafula Otieno,3A,F,2,Opener,2026-05-10,Kiswahili,65.3,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,Mathematics,63.4,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,Physics,67.6,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,Chemistry,75.7,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,Biology,61.3,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,English,68.5,100
+1014,Nafula Otieno,3A,F,2,End Term,2026-07-28,Kiswahili,61.6,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,Mathematics,78.1,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,Physics,57.9,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,Chemistry,66.7,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,Biology,74.2,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,English,81.7,100
+1014,Nafula Otieno,3A,F,3,Opener,2026-09-05,Kiswahili,69.0,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,Mathematics,68.2,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,Physics,85.3,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,Chemistry,63.0,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,Biology,58.3,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,English,76.3,100
+1014,Nafula Otieno,3A,F,3,End Term,2026-11-15,Kiswahili,68.6,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,Mathematics,81.5,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,Physics,86.5,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,Chemistry,88.0,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,Biology,80.0,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,English,81.9,100
+1015,Adhiambo Odhiambo,3A,F,1,Opener,2026-01-15,Kiswahili,88.3,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,Mathematics,92.8,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,Physics,86.5,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,Chemistry,99.0,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,Biology,81.3,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,English,84.5,100
+1015,Adhiambo Odhiambo,3A,F,1,End Term,2026-04-01,Kiswahili,84.8,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,Mathematics,93.3,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,Physics,91.7,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,Chemistry,93.1,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,Biology,91.6,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,English,89.4,100
+1015,Adhiambo Odhiambo,3A,F,2,Opener,2026-05-10,Kiswahili,98.3,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,Mathematics,96.9,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,Physics,99.0,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,Chemistry,99.0,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,Biology,95.8,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,English,99.0,100
+1015,Adhiambo Odhiambo,3A,F,2,End Term,2026-07-28,Kiswahili,97.5,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,Mathematics,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,Physics,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,Chemistry,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,Biology,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,English,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,Opener,2026-09-05,Kiswahili,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,Mathematics,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,Physics,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,Chemistry,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,Biology,94.5,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,English,99.0,100
+1015,Adhiambo Odhiambo,3A,F,3,End Term,2026-11-15,Kiswahili,99.0,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,Mathematics,59.8,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,Physics,46.6,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,Chemistry,51.8,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,Biology,37.6,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,English,49.4,100
+1016,Mwikali Wekesa,3A,F,1,Opener,2026-01-15,Kiswahili,36.0,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,Mathematics,39.8,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,Physics,56.3,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,Chemistry,60.0,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,Biology,54.2,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,English,44.1,100
+1016,Mwikali Wekesa,3A,F,1,End Term,2026-04-01,Kiswahili,53.1,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,Mathematics,50.7,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,Physics,40.2,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,Chemistry,64.3,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,Biology,56.4,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,English,48.6,100
+1016,Mwikali Wekesa,3A,F,2,Opener,2026-05-10,Kiswahili,52.4,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,Mathematics,51.1,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,Physics,32.2,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,Chemistry,49.5,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,Biology,43.1,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,English,41.4,100
+1016,Mwikali Wekesa,3A,F,2,End Term,2026-07-28,Kiswahili,48.8,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,Mathematics,62.1,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,Physics,51.6,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,Chemistry,45.8,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,Biology,51.5,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,English,58.6,100
+1016,Mwikali Wekesa,3A,F,3,Opener,2026-09-05,Kiswahili,56.8,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,Mathematics,47.5,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,Physics,40.4,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,Chemistry,54.3,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,Biology,48.9,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,English,53.5,100
+1016,Mwikali Wekesa,3A,F,3,End Term,2026-11-15,Kiswahili,53.3,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,Mathematics,85.5,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,Physics,71.3,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,Chemistry,87.6,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,Biology,74.0,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,English,94.9,100
+1017,Zawadi Mutua,3A,F,1,Opener,2026-01-15,Kiswahili,72.5,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,Mathematics,93.8,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,Physics,79.9,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,Chemistry,76.4,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,Biology,72.2,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,English,80.6,100
+1017,Zawadi Mutua,3A,F,1,End Term,2026-04-01,Kiswahili,83.8,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,Mathematics,88.1,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,Physics,77.4,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,Chemistry,84.2,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,Biology,94.6,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,English,98.8,100
+1017,Zawadi Mutua,3A,F,2,Opener,2026-05-10,Kiswahili,87.1,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,Mathematics,87.8,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,Physics,85.7,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,Chemistry,92.0,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,Biology,74.6,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,English,87.5,100
+1017,Zawadi Mutua,3A,F,2,End Term,2026-07-28,Kiswahili,74.9,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,Mathematics,93.6,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,Physics,92.8,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,Chemistry,87.2,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,Biology,96.9,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,English,83.6,100
+1017,Zawadi Mutua,3A,F,3,Opener,2026-09-05,Kiswahili,79.6,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,Mathematics,95.5,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,Physics,98.9,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,Chemistry,99.0,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,Biology,85.2,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,English,99.0,100
+1017,Zawadi Mutua,3A,F,3,End Term,2026-11-15,Kiswahili,93.3,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,Mathematics,98.1,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,Physics,99.0,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,Chemistry,99.0,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,Biology,87.0,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,English,99.0,100
+1018,Amani Cheruiyot,3A,F,1,Opener,2026-01-15,Kiswahili,99.0,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,Mathematics,97.5,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,Physics,99.0,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,Chemistry,99.0,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,Biology,98.9,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,English,93.1,100
+1018,Amani Cheruiyot,3A,F,1,End Term,2026-04-01,Kiswahili,90.7,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,Mathematics,99.0,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,Physics,99.0,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,Chemistry,99.0,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,Biology,97.3,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,English,99.0,100
+1018,Amani Cheruiyot,3A,F,2,Opener,2026-05-10,Kiswahili,80.6,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,Mathematics,99.0,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,Physics,92.1,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,Chemistry,99.0,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,Biology,95.0,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,English,92.7,100
+1018,Amani Cheruiyot,3A,F,2,End Term,2026-07-28,Kiswahili,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,Mathematics,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,Physics,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,Chemistry,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,Biology,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,English,99.0,100
+1018,Amani Cheruiyot,3A,F,3,Opener,2026-09-05,Kiswahili,92.8,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,Mathematics,99.0,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,Physics,99.0,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,Chemistry,98.3,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,Biology,99.0,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,English,99.0,100
+1018,Amani Cheruiyot,3A,F,3,End Term,2026-11-15,Kiswahili,99.0,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,Mathematics,55.9,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,Physics,56.9,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,Chemistry,54.1,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,Biology,64.5,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,English,56.8,100
+1019,Imani Cheruiyot,3A,F,1,Opener,2026-01-15,Kiswahili,62.0,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,Mathematics,64.0,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,Physics,62.0,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,Chemistry,57.2,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,Biology,58.8,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,English,58.0,100
+1019,Imani Cheruiyot,3A,F,1,End Term,2026-04-01,Kiswahili,63.1,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,Mathematics,65.7,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,Physics,64.1,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,Chemistry,63.9,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,Biology,62.0,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,English,61.4,100
+1019,Imani Cheruiyot,3A,F,2,Opener,2026-05-10,Kiswahili,58.5,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,Mathematics,69.3,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,Physics,68.1,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,Chemistry,67.7,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,Biology,54.2,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,English,71.9,100
+1019,Imani Cheruiyot,3A,F,2,End Term,2026-07-28,Kiswahili,68.4,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,Mathematics,72.9,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,Physics,65.7,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,Chemistry,69.1,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,Biology,64.1,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,English,64.5,100
+1019,Imani Cheruiyot,3A,F,3,Opener,2026-09-05,Kiswahili,79.1,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,Mathematics,70.8,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,Physics,73.3,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,Chemistry,72.9,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,Biology,72.8,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,English,70.2,100
+1019,Imani Cheruiyot,3A,F,3,End Term,2026-11-15,Kiswahili,76.1,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,Mathematics,79.3,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,Physics,58.1,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,Chemistry,61.2,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,Biology,73.4,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,English,73.7,100
+1020,Neema Onyango,3A,F,1,Opener,2026-01-15,Kiswahili,73.9,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,Mathematics,71.2,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,Physics,55.3,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,Chemistry,77.7,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,Biology,62.0,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,English,73.0,100
+1020,Neema Onyango,3A,F,1,End Term,2026-04-01,Kiswahili,64.5,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,Mathematics,71.4,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,Physics,72.2,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,Chemistry,73.2,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,Biology,79.6,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,English,88.7,100
+1020,Neema Onyango,3A,F,2,Opener,2026-05-10,Kiswahili,79.4,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,Mathematics,75.5,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,Physics,82.6,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,Chemistry,85.4,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,Biology,72.5,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,English,86.4,100
+1020,Neema Onyango,3A,F,2,End Term,2026-07-28,Kiswahili,86.8,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,Mathematics,80.7,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,Physics,91.3,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,Chemistry,80.6,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,Biology,88.4,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,English,86.0,100
+1020,Neema Onyango,3A,F,3,Opener,2026-09-05,Kiswahili,87.1,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,Mathematics,80.1,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,Physics,75.2,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,Chemistry,99.0,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,Biology,86.5,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,English,85.2,100
+1020,Neema Onyango,3A,F,3,End Term,2026-11-15,Kiswahili,75.9,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,Mathematics,68.3,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,Physics,60.4,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,Chemistry,83.1,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,Biology,75.7,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,English,63.4,100
+1022,Bob Kiptoo,3A,M,1,Opener,2026-01-15,Kiswahili,88.8,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,Mathematics,79.3,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,Physics,67.2,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,Chemistry,55.8,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,Biology,84.4,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,English,58.9,100
+1022,Bob Kiptoo,3A,M,1,End Term,2026-04-01,Kiswahili,63.1,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,Mathematics,79.7,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,Physics,85.8,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,Chemistry,81.8,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,Biology,73.1,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,English,72.3,100
+1022,Bob Kiptoo,3A,M,2,Opener,2026-05-10,Kiswahili,79.8,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,Mathematics,78.2,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,Physics,71.6,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,Chemistry,73.5,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,Biology,69.1,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,English,63.5,100
+1022,Bob Kiptoo,3A,M,2,End Term,2026-07-28,Kiswahili,72.5,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,Mathematics,62.1,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,Physics,69.3,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,Chemistry,66.4,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,Biology,62.4,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,English,69.9,100
+1022,Bob Kiptoo,3A,M,3,Opener,2026-09-05,Kiswahili,83.8,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,Mathematics,79.6,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,Physics,59.7,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,Chemistry,66.6,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,Biology,76.2,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,English,62.4,100
+1022,Bob Kiptoo,3A,M,3,End Term,2026-11-15,Kiswahili,73.2,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Mathematics,65.7,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Physics,55.8,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Chemistry,66.3,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Biology,48.7,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,English,61.6,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Kiswahili,67.5,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Mathematics,46.6,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Physics,66.6,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Chemistry,64.2,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Biology,63.5,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,English,67.5,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Kiswahili,75.1,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Mathematics,60.0,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Physics,58.2,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Chemistry,64.3,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Biology,62.3,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,English,64.9,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Kiswahili,62.9,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Mathematics,52.0,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Physics,55.1,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Chemistry,50.4,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Biology,71.3,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,English,53.0,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Kiswahili,55.7,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Mathematics,50.7,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Physics,67.2,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Chemistry,58.6,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Biology,66.0,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,English,56.7,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Kiswahili,62.8,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Mathematics,48.7,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Physics,76.6,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Chemistry,50.0,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Biology,57.1,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,English,66.6,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Kiswahili,62.8,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Mathematics,48.7,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Physics,49.6,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Chemistry,54.6,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Biology,46.6,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,English,52.9,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Kiswahili,66.0,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Mathematics,44.8,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Physics,39.9,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Chemistry,52.3,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Biology,63.2,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,English,39.7,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Kiswahili,60.8,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Mathematics,58.2,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Physics,43.9,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Chemistry,55.2,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Biology,55.5,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,English,41.1,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Kiswahili,47.1,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Mathematics,41.8,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Physics,39.4,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Chemistry,45.7,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Biology,35.1,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,English,42.4,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Kiswahili,41.9,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Mathematics,45.8,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Physics,34.4,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Chemistry,50.8,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Biology,47.4,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,English,27.6,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Kiswahili,48.1,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Mathematics,50.9,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Physics,35.3,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Chemistry,58.3,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Biology,43.2,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,English,34.7,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Kiswahili,43.8,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Mathematics,71.5,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Physics,73.4,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Chemistry,74.0,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Biology,63.7,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,English,75.1,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Kiswahili,56.5,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Mathematics,64.2,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Physics,63.3,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Chemistry,61.3,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Biology,81.8,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,English,82.1,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Kiswahili,73.4,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Mathematics,54.2,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Physics,67.4,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Chemistry,77.5,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Biology,70.7,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,English,91.9,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Kiswahili,70.2,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Mathematics,64.5,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Physics,66.2,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Chemistry,66.6,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Biology,66.8,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,English,76.2,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Kiswahili,74.0,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Mathematics,54.4,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Physics,55.8,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Chemistry,47.7,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Biology,71.5,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,English,58.7,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Kiswahili,44.9,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Mathematics,63.7,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Physics,88.8,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Chemistry,62.9,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Biology,73.2,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,English,68.1,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Kiswahili,62.1,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Mathematics,58.8,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Physics,55.5,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Chemistry,57.1,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Biology,59.4,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,English,48.0,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Kiswahili,66.5,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Mathematics,51.9,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Physics,52.9,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Chemistry,59.5,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Biology,51.6,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,English,53.4,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Kiswahili,60.3,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Mathematics,61.1,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Physics,62.0,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Chemistry,56.3,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Biology,64.0,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,English,63.4,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Kiswahili,64.8,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Mathematics,54.3,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Physics,50.3,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Chemistry,49.7,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Biology,56.9,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,English,50.2,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Kiswahili,60.3,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Mathematics,55.3,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Physics,63.6,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Chemistry,57.2,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Biology,63.0,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,English,55.5,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Kiswahili,48.6,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Mathematics,49.0,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Physics,59.6,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Chemistry,50.0,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Biology,64.4,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,English,66.1,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Kiswahili,71.1,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,Mathematics,76.9,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,Physics,82.3,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,Chemistry,77.9,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,Biology,69.2,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,English,73.6,100
+1022,Bob Wekesa,3A,M,1,Opener,2026-01-15,Kiswahili,75.5,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,Mathematics,77.3,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,Physics,74.8,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,Chemistry,79.7,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,Biology,73.2,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,English,82.5,100
+1022,Bob Wekesa,3A,M,1,End Term,2026-04-01,Kiswahili,87.5,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,Mathematics,88.3,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,Physics,65.0,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,Chemistry,62.5,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,Biology,81.3,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,English,71.7,100
+1022,Bob Wekesa,3A,M,2,Opener,2026-05-10,Kiswahili,79.4,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,Mathematics,75.2,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,Physics,64.5,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,Chemistry,85.6,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,Biology,81.7,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,English,78.8,100
+1022,Bob Wekesa,3A,M,2,End Term,2026-07-28,Kiswahili,64.6,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,Mathematics,81.2,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,Physics,81.3,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,Chemistry,73.3,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,Biology,79.4,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,English,84.3,100
+1022,Bob Wekesa,3A,M,3,Opener,2026-09-05,Kiswahili,88.2,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,Mathematics,87.5,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,Physics,73.5,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,Chemistry,93.4,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,Biology,78.7,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,English,85.9,100
+1022,Bob Wekesa,3A,M,3,End Term,2026-11-15,Kiswahili,79.4,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Mathematics,56.6,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Physics,46.4,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Chemistry,55.1,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Biology,70.3,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,English,45.7,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Kiswahili,39.6,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Mathematics,75.6,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Physics,54.1,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Chemistry,52.1,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Biology,65.6,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,English,54.1,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Kiswahili,72.5,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Mathematics,69.8,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Physics,53.1,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Chemistry,79.4,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Biology,52.1,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,English,68.0,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Kiswahili,60.0,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Mathematics,77.0,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Physics,73.3,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Chemistry,61.5,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Biology,52.2,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,English,66.9,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Kiswahili,52.6,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Mathematics,85.0,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Physics,61.7,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Chemistry,59.3,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Biology,62.3,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,English,51.8,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Kiswahili,51.4,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Mathematics,79.1,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Physics,56.0,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Chemistry,54.6,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Biology,67.0,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,English,76.5,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Kiswahili,68.4,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,Mathematics,95.0,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,Physics,84.3,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,Chemistry,82.8,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,Biology,98.0,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,English,89.7,100
+1022,Bob Mwangi,3A,M,1,Opener,2026-01-15,Kiswahili,82.3,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,Mathematics,99.0,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,Physics,94.8,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,Chemistry,96.6,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,Biology,99.0,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,English,90.7,100
+1022,Bob Mwangi,3A,M,1,End Term,2026-04-01,Kiswahili,92.1,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,Mathematics,95.2,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,Physics,96.0,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,Chemistry,99.0,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,Biology,97.9,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,English,99.0,100
+1022,Bob Mwangi,3A,M,2,Opener,2026-05-10,Kiswahili,95.8,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,Mathematics,95.6,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,Physics,92.5,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,Chemistry,93.6,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,Biology,86.4,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,English,99.0,100
+1022,Bob Mwangi,3A,M,2,End Term,2026-07-28,Kiswahili,86.0,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,Mathematics,99.0,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,Physics,98.6,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,Chemistry,99.0,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,Biology,99.0,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,English,99.0,100
+1022,Bob Mwangi,3A,M,3,Opener,2026-09-05,Kiswahili,91.9,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,Mathematics,99.0,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,Physics,99.0,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,Chemistry,99.0,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,Biology,99.0,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,English,99.0,100
+1022,Bob Mwangi,3A,M,3,End Term,2026-11-15,Kiswahili,99.0,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Mathematics,61.5,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Physics,60.4,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Chemistry,63.2,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Biology,51.1,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,English,57.8,100
+1022,Bob Kariuki,3A,M,1,Opener,2026-01-15,Kiswahili,56.0,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Mathematics,57.6,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Physics,59.0,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Chemistry,68.2,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Biology,57.1,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,English,58.2,100
+1022,Bob Kariuki,3A,M,1,End Term,2026-04-01,Kiswahili,66.1,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Mathematics,61.5,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Physics,67.7,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Chemistry,66.4,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Biology,50.9,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,English,60.8,100
+1022,Bob Kariuki,3A,M,2,Opener,2026-05-10,Kiswahili,61.8,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Mathematics,66.4,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Physics,61.0,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Chemistry,64.4,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Biology,53.9,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,English,57.9,100
+1022,Bob Kariuki,3A,M,2,End Term,2026-07-28,Kiswahili,57.8,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Mathematics,59.9,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Physics,61.5,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Chemistry,72.4,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Biology,61.1,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,English,54.8,100
+1022,Bob Kariuki,3A,M,3,Opener,2026-09-05,Kiswahili,63.7,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Mathematics,67.7,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Physics,57.6,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Chemistry,66.1,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Biology,60.4,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,English,57.3,100
+1022,Bob Kariuki,3A,M,3,End Term,2026-11-15,Kiswahili,65.3,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,Mathematics,62.1,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,Physics,67.2,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,Chemistry,61.7,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,Biology,66.3,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,English,67.9,100
+1022,Bob Mutua,3A,M,1,Opener,2026-01-15,Kiswahili,66.4,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,Mathematics,72.5,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,Physics,69.0,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,Chemistry,69.7,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,Biology,75.1,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,English,65.5,100
+1022,Bob Mutua,3A,M,1,End Term,2026-04-01,Kiswahili,66.4,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,Mathematics,66.5,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,Physics,78.7,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,Chemistry,71.7,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,Biology,84.8,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,English,72.6,100
+1022,Bob Mutua,3A,M,2,Opener,2026-05-10,Kiswahili,77.1,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,Mathematics,80.8,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,Physics,85.5,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,Chemistry,84.5,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,Biology,84.9,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,English,82.1,100
+1022,Bob Mutua,3A,M,2,End Term,2026-07-28,Kiswahili,82.8,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,Mathematics,82.7,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,Physics,81.8,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,Chemistry,79.7,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,Biology,85.4,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,English,82.8,100
+1022,Bob Mutua,3A,M,3,Opener,2026-09-05,Kiswahili,83.9,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,Mathematics,86.9,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,Physics,91.0,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,Chemistry,87.0,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,Biology,94.6,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,English,84.1,100
+1022,Bob Mutua,3A,M,3,End Term,2026-11-15,Kiswahili,89.2,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,Mathematics,70.1,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,Physics,66.8,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,Chemistry,80.1,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,Biology,79.4,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,English,95.1,100
+1022,Bob Njoroge,3A,M,1,Opener,2026-01-15,Kiswahili,87.9,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,Mathematics,67.7,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,Physics,97.8,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,Chemistry,91.0,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,Biology,85.4,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,English,80.8,100
+1022,Bob Njoroge,3A,M,1,End Term,2026-04-01,Kiswahili,74.8,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,Mathematics,73.2,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,Physics,91.6,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,Chemistry,96.7,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,Biology,93.5,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,English,78.7,100
+1022,Bob Njoroge,3A,M,2,Opener,2026-05-10,Kiswahili,73.7,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,Mathematics,77.6,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,Physics,68.0,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,Chemistry,83.9,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,Biology,79.6,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,English,79.1,100
+1022,Bob Njoroge,3A,M,2,End Term,2026-07-28,Kiswahili,69.9,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,Mathematics,80.8,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,Physics,78.4,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,Chemistry,71.6,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,Biology,57.2,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,English,82.8,100
+1022,Bob Njoroge,3A,M,3,Opener,2026-09-05,Kiswahili,97.9,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,Mathematics,90.5,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,Physics,79.2,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,Chemistry,76.5,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,Biology,85.0,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,English,74.9,100
+1022,Bob Njoroge,3A,M,3,End Term,2026-11-15,Kiswahili,85.9,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Mathematics,57.9,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Physics,63.8,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Chemistry,55.5,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Biology,49.4,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,English,48.0,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Kiswahili,45.4,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Mathematics,58.2,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Physics,65.1,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Chemistry,70.6,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Biology,52.6,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,English,73.0,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Kiswahili,57.0,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Mathematics,67.3,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Physics,64.5,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Chemistry,53.7,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Biology,72.6,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,English,75.0,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Kiswahili,64.6,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Mathematics,75.5,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Physics,81.4,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Chemistry,67.6,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Biology,69.8,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,English,83.0,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Kiswahili,65.0,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Mathematics,84.8,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Physics,75.3,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Chemistry,90.1,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Biology,81.0,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,English,73.0,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Kiswahili,90.4,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Mathematics,84.8,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Physics,86.9,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Chemistry,95.7,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Biology,97.3,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,English,85.0,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Kiswahili,89.9,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,Mathematics,75.5,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,Physics,76.3,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,Chemistry,70.0,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,Biology,65.5,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,English,66.2,100
+1022,Bob Ochieng,3A,M,1,Opener,2026-01-15,Kiswahili,73.2,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,Mathematics,66.0,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,Physics,50.0,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,Chemistry,74.4,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,Biology,77.9,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,English,56.4,100
+1022,Bob Ochieng,3A,M,1,End Term,2026-04-01,Kiswahili,66.8,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,Mathematics,81.8,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,Physics,91.9,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,Chemistry,73.4,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,Biology,67.4,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,English,76.0,100
+1022,Bob Ochieng,3A,M,2,Opener,2026-05-10,Kiswahili,88.1,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,Mathematics,74.1,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,Physics,71.6,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,Chemistry,71.8,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,Biology,67.9,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,English,80.8,100
+1022,Bob Ochieng,3A,M,2,End Term,2026-07-28,Kiswahili,92.5,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,Mathematics,84.1,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,Physics,78.3,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,Chemistry,75.7,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,Biology,65.5,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,English,89.2,100
+1022,Bob Ochieng,3A,M,3,Opener,2026-09-05,Kiswahili,81.3,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,Mathematics,82.5,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,Physics,99.0,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,Chemistry,82.7,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,Biology,74.3,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,English,81.2,100
+1022,Bob Ochieng,3A,M,3,End Term,2026-11-15,Kiswahili,93.4,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Mathematics,86.9,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Physics,79.4,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Chemistry,92.0,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Biology,85.6,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,English,94.7,100
+1022,Bob Wanjiru,3A,M,1,Opener,2026-01-15,Kiswahili,88.6,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Mathematics,83.1,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Physics,90.2,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Chemistry,86.9,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Biology,91.1,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,English,87.1,100
+1022,Bob Wanjiru,3A,M,1,End Term,2026-04-01,Kiswahili,78.6,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Mathematics,80.8,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Physics,87.8,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Chemistry,83.7,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Biology,84.1,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,English,79.3,100
+1022,Bob Wanjiru,3A,M,2,Opener,2026-05-10,Kiswahili,82.9,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Mathematics,91.6,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Physics,77.0,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Chemistry,84.0,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Biology,90.9,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,English,81.9,100
+1022,Bob Wanjiru,3A,M,2,End Term,2026-07-28,Kiswahili,81.7,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Mathematics,76.3,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Physics,82.4,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Chemistry,81.7,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Biology,87.6,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,English,86.2,100
+1022,Bob Wanjiru,3A,M,3,Opener,2026-09-05,Kiswahili,90.0,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Mathematics,82.3,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Physics,80.6,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Chemistry,82.1,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Biology,80.3,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,English,81.1,100
+1022,Bob Wanjiru,3A,M,3,End Term,2026-11-15,Kiswahili,75.7,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,Mathematics,51.7,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,Physics,54.6,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,Chemistry,45.8,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,Biology,53.2,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,English,54.6,100
+1022,Bob Karanja,3A,M,1,Opener,2026-01-15,Kiswahili,53.0,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,Mathematics,40.7,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,Physics,45.1,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,Chemistry,53.0,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,Biology,46.7,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,English,43.5,100
+1022,Bob Karanja,3A,M,1,End Term,2026-04-01,Kiswahili,49.6,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,Mathematics,50.6,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,Physics,47.8,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,Chemistry,45.1,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,Biology,43.5,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,English,44.0,100
+1022,Bob Karanja,3A,M,2,Opener,2026-05-10,Kiswahili,46.1,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,Mathematics,51.7,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,Physics,42.5,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,Chemistry,48.9,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,Biology,49.1,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,English,47.7,100
+1022,Bob Karanja,3A,M,2,End Term,2026-07-28,Kiswahili,46.1,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,Mathematics,45.1,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,Physics,41.8,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,Chemistry,38.7,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,Biology,42.5,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,English,37.2,100
+1022,Bob Karanja,3A,M,3,Opener,2026-09-05,Kiswahili,50.7,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,Mathematics,39.8,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,Physics,40.8,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,Chemistry,41.5,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,Biology,38.3,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,English,42.3,100
+1022,Bob Karanja,3A,M,3,End Term,2026-11-15,Kiswahili,42.2,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,Mathematics,72.2,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,Physics,67.4,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,Chemistry,74.2,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,Biology,76.2,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,English,69.1,100
+1022,Bob Odhiambo,3A,M,1,Opener,2026-01-15,Kiswahili,71.9,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,Mathematics,73.1,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,Physics,74.1,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,Chemistry,76.9,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,Biology,73.7,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,English,76.2,100
+1022,Bob Odhiambo,3A,M,1,End Term,2026-04-01,Kiswahili,79.4,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,Mathematics,74.7,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,Physics,74.8,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,Chemistry,79.9,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,Biology,80.1,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,English,75.8,100
+1022,Bob Odhiambo,3A,M,2,Opener,2026-05-10,Kiswahili,74.9,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,Mathematics,78.9,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,Physics,77.2,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,Chemistry,73.1,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,Biology,78.8,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,English,76.6,100
+1022,Bob Odhiambo,3A,M,2,End Term,2026-07-28,Kiswahili,79.7,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,Mathematics,78.5,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,Physics,80.2,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,Chemistry,84.1,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,Biology,76.9,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,English,81.9,100
+1022,Bob Odhiambo,3A,M,3,Opener,2026-09-05,Kiswahili,81.2,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,Mathematics,81.8,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,Physics,83.5,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,Chemistry,81.0,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,Biology,83.6,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,English,80.6,100
+1022,Bob Odhiambo,3A,M,3,End Term,2026-11-15,Kiswahili,86.5,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,Mathematics,77.8,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,Physics,85.7,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,Chemistry,69.5,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,Biology,72.7,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,English,72.7,100
+1022,Bob Cheruiyot,3A,M,1,Opener,2026-01-15,Kiswahili,73.2,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,Mathematics,80.4,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,Physics,67.1,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,Chemistry,65.2,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,Biology,69.0,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,English,78.2,100
+1022,Bob Cheruiyot,3A,M,1,End Term,2026-04-01,Kiswahili,84.4,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,Mathematics,75.7,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,Physics,75.2,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,Chemistry,71.5,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,Biology,81.4,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,English,68.2,100
+1022,Bob Cheruiyot,3A,M,2,Opener,2026-05-10,Kiswahili,76.6,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,Mathematics,81.8,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,Physics,79.1,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,Chemistry,72.4,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,Biology,80.8,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,English,58.8,100
+1022,Bob Cheruiyot,3A,M,2,End Term,2026-07-28,Kiswahili,79.2,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,Mathematics,73.2,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,Physics,66.6,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,Chemistry,74.4,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,Biology,83.1,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,English,73.0,100
+1022,Bob Cheruiyot,3A,M,3,Opener,2026-09-05,Kiswahili,81.0,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,Mathematics,85.8,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,Physics,84.0,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,Chemistry,80.8,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,Biology,79.9,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,English,74.4,100
+1022,Bob Cheruiyot,3A,M,3,End Term,2026-11-15,Kiswahili,67.3,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,Mathematics,78.5,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,Physics,71.5,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,Chemistry,97.0,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,Biology,80.7,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,English,82.5,100
+1022,Bob Wafula,3A,M,1,Opener,2026-01-15,Kiswahili,82.1,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,Mathematics,83.2,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,Physics,92.1,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,Chemistry,79.7,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,Biology,85.9,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,English,78.9,100
+1022,Bob Wafula,3A,M,1,End Term,2026-04-01,Kiswahili,71.3,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,Mathematics,81.1,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,Physics,82.4,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,Chemistry,83.7,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,Biology,82.2,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,English,76.7,100
+1022,Bob Wafula,3A,M,2,Opener,2026-05-10,Kiswahili,82.7,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,Mathematics,77.3,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,Physics,90.6,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,Chemistry,89.9,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,Biology,79.3,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,English,87.1,100
+1022,Bob Wafula,3A,M,2,End Term,2026-07-28,Kiswahili,80.5,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,Mathematics,92.9,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,Physics,97.4,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,Chemistry,78.5,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,Biology,93.1,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,English,90.8,100
+1022,Bob Wafula,3A,M,3,Opener,2026-09-05,Kiswahili,93.3,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,Mathematics,94.7,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,Physics,85.0,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,Chemistry,92.2,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,Biology,89.2,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,English,99.0,100
+1022,Bob Wafula,3A,M,3,End Term,2026-11-15,Kiswahili,91.2,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Mathematics,65.5,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Physics,57.5,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Chemistry,49.2,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Biology,49.3,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,English,40.2,100
+1022,Bob Achieng,3A,M,1,Opener,2026-01-15,Kiswahili,44.4,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Mathematics,58.1,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Physics,62.8,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Chemistry,46.2,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Biology,65.2,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,English,49.7,100
+1022,Bob Achieng,3A,M,1,End Term,2026-04-01,Kiswahili,56.3,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Mathematics,67.8,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Physics,67.0,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Chemistry,55.7,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Biology,56.9,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,English,42.1,100
+1022,Bob Achieng,3A,M,2,Opener,2026-05-10,Kiswahili,53.3,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Mathematics,59.3,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Physics,58.1,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Chemistry,58.5,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Biology,64.4,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,English,55.2,100
+1022,Bob Achieng,3A,M,2,End Term,2026-07-28,Kiswahili,55.7,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Mathematics,63.5,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Physics,68.3,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Chemistry,54.9,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Biology,74.1,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,English,57.9,100
+1022,Bob Achieng,3A,M,3,Opener,2026-09-05,Kiswahili,61.5,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Mathematics,68.6,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Physics,69.1,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Chemistry,68.7,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Biology,69.6,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,English,56.9,100
+1022,Bob Achieng,3A,M,3,End Term,2026-11-15,Kiswahili,65.5,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Mathematics,47.1,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Physics,57.1,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Chemistry,49.0,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Biology,53.9,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,English,50.6,100
+1022,Bob Onyango,3A,M,1,Opener,2026-01-15,Kiswahili,39.9,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Mathematics,51.3,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Physics,57.6,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Chemistry,50.8,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Biology,49.6,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,English,59.7,100
+1022,Bob Onyango,3A,M,1,End Term,2026-04-01,Kiswahili,46.7,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Mathematics,61.2,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Physics,60.2,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Chemistry,46.6,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Biology,67.2,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,English,45.4,100
+1022,Bob Onyango,3A,M,2,Opener,2026-05-10,Kiswahili,58.1,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Mathematics,62.0,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Physics,54.2,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Chemistry,59.5,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Biology,55.5,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,English,55.0,100
+1022,Bob Onyango,3A,M,2,End Term,2026-07-28,Kiswahili,54.8,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Mathematics,55.7,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Physics,63.8,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Chemistry,56.5,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Biology,47.1,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,English,61.8,100
+1022,Bob Onyango,3A,M,3,Opener,2026-09-05,Kiswahili,43.7,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Mathematics,63.4,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Physics,66.3,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Chemistry,45.7,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Biology,55.8,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,English,47.8,100
+1022,Bob Onyango,3A,M,3,End Term,2026-11-15,Kiswahili,53.1,100

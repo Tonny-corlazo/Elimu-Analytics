@@ -1,0 +1,27 @@
+df.isna().sum()                # missing per column
+df.dropna(subset=["Age"])
+df["Age"].fillna(df["Age"].median(), inplace=True)
+df.drop_duplicates()
+df.rename(columns={"Sex": "gender"})
+df["Age"] = df["Age"].astype(int)
+
+
+//==========================================
+//================== CHEAT CODE ======================
+df.isna().sum()                              # count nulls
+df.dropna()                                  # drop rows with any null
+df.dropna(subset=["Age"])                    # drop only if Age null
+df["x"].fillna(value)                        # fill with constant
+df["x"].fillna(df["x"].median())             # fill with median
+df.groupby(...)["x"].transform(...)          # group-aware fill
+
+df.duplicated().sum()                        # count dupes
+df.drop_duplicates(inplace=True)             # remove them
+
+df.astype("category")                        # type conversion
+df.rename(columns={...})                     # rename
+df.columns = df.columns.str.lower()          # lowercase all
+
+df["x"].quantile(0.25)                       # IQR math
+df["s"].str.extract(r"pattern")              # regex extract
+df["s"].str.strip()                          # trim whitespace

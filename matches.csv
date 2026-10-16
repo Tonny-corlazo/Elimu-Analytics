@@ -1,0 +1,7 @@
+match_id,date,fps_mode,goals_scored,goals_conceded,passes_completed,passes_attempted,possession_pct
+1,2026-10-01,20fps,3,1,142,180,58
+2,2026-10-01,20fps,2,2,130,175,52
+3,2026-10-02,20fps,1,3,118,170,47
+4,2026-10-03,30fps,2,2,126,168,50
+5,2026-10-03,30fps,4,0,158,190,62
+6,2026-10-04,30fps,1,2,121,172,49

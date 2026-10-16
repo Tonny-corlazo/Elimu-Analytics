@@ -1,0 +1,305 @@
+emp_id,name,age,gender,city,department,education,years_exp,salary,performance,projects,satisfaction,hire_date,bonus,total_comp
+1001,Gus Davis,23,Male,Cape Town,Finance,Bachelor,20,147360.0,Low,4,1.8,2020-10-02,22346.12,169706.12
+1002,Omar Jackson,21,Female,Cape Town,HR,Master,21,83352.0,High,5,3.8,2023-01-01,6824.2,90176.2
+1003,Hana Harris,53,Male,Cairo,Engineering,Bachelor,27,33191.0,Medium,4,1.4,2024-08-29,4824.46,38015.46
+1004,Uma Moore,60,Female,Accra,HR,Bachelor,8,120536.0,Low,2,8.0,2024-11-30,11248.63,131784.63
+1005,Zane Brown,30,Male,Accra,Engineering,Bachelor,25,134576.0,High,8,,2020-08-30,15613.66,150189.66
+1006,Wes Jackson,63,Female,Kigali,Sales,Bachelor,8,33631.0,Medium,6,5.0,2024-12-15,4751.22,38382.22
+1007,Kim Taylor,64,Male,Cape Town,Support,Master,14,167244.0,Top,3,9.0,2023-01-30,5547.21,172791.21
+1008,Uma Davis,49,Female,Kigali,Engineering,Bachelor,9,,Medium,5,6.9,2022-09-13,9867.16,81947.16
+1009,Hana Taylor,33,Female,Cape Town,HR,Bachelor,23,120353.0,Medium,4,1.1,2021-11-15,6761.85,127114.85
+1010,Cara Wilson,32,Male,Casablanca,Finance,Bachelor,7,58671.0,Medium,1,9.5,2020-06-19,6242.88,64913.88
+1011,Uma Johnson,51,Female,Casablanca,Engineering,PhD,23,,High,3,3.1,2021-10-14,16844.36,169655.36
+1012,Xena White,22,Male,Lagos,Support,High School,15,157734.0,Medium,4,2.0,2020-07-06,7080.63,164814.63
+1013,Finn Johnson,55,Male,Casablanca,Engineering,Bachelor,25,81399.0,High,2,7.9,2024-01-04,16470.39,97869.39
+1014,Uma Smith,43,Male,Lagos,Marketing,Master,26,37099.0,Medium,4,5.5,2023-01-14,3647.92,40746.92
+1015,Leo Thomas,37,Male,Casablanca,Finance,Bachelor,36,86492.0,High,4,4.9,2024-02-08,9162.45,95654.45
+1016,Vic Harris,46,Male,Nairobi,Support,PhD,3,126722.0,Medium,5,3.2,2020-02-21,8484.97,135206.97
+1017,Leo Anderson,28,Male,Casablanca,Support,Master,23,60111.0,Low,3,5.9,2020-04-20,1939.56,62050.56
+1018,Quinn Jackson,49,Female,Kigali,Sales,Master,18,93936.0,High,2,3.5,2022-05-26,14170.67,108106.67
+1019,Jo White,46,Male,Cairo,HR,Master,35,90920.0,Medium,4,9.1,2022-12-02,4088.06,95008.06
+1020,Pia Martin,30,Male,Kigali,Sales,PhD,38,93530.0,Low,4,2.9,2020-07-29,8013.03,101543.03
+1021,Omar Martin,46,Male,Cairo,Support,PhD,9,37788.0,Top,2,9.0,2023-05-08,2028.96,39816.96
+1022,Sara White,54,Male,Accra,Finance,Master,24,58082.0,Medium,6,6.0,2022-05-07,7429.98,65511.979999999996
+1023,Wes Davis,61,Male,Kigali,Engineering,Master,17,153287.0,High,5,8.5,2024-11-10,42246.92,195533.91999999998
+1024,Yara Brown,27,Female,Accra,Engineering,High School,18,119570.0,Medium,4,7.4,2021-09-18,25297.99,144867.99
+1025,Eve Brown,24,Male,Lagos,Finance,High School,35,,High,4,7.3,2022-11-15,22950.54,153965.54
+1026,Gus Miller,31,Male,Lagos,Support,Bachelor,9,113588.0,Low,6,3.9,2020-10-25,3116.26,116704.26
+1027,Ivan Moore,49,Male,Nairobi,Engineering,High School,32,177603.0,Medium,4,3.1,2023-01-05,21241.59,198844.59
+1028,Ravi Davis,56,Male,Casablanca,Engineering,Bachelor,4,118340.0,Top,4,2.9,2022-07-12,12876.95,131216.95
+1029,Yara White,45,Female,Kigali,Engineering,Bachelor,34,124439.0,High,3,8.7,2020-05-16,17055.03,141494.03
+1030,Nia Johnson,41,Male,Accra,HR,Bachelor,33,171214.0,Medium,1,8.4,2022-11-09,14262.4,185476.4
+1031, Zane Anderson ,56,Female,Cairo,HR,Master,32,145053.0,Medium,5,5.0,2021-03-15,13293.49,158346.49
+1032,Zane Miller,30,Female,Lagos,Marketing,PhD,20,78355.0,Top,5,,2020-07-29,4274.93,82629.93
+1033,Bob Davis,57,Male,Casablanca,Sales,High School,16,170938.0,Medium,7,,2022-01-21,37075.71,208013.71
+1034,Omar White,29,Female,Lagos,Finance,Bachelor,21,155426.0,High,4,6.6,2024-04-23,25032.89,180458.89
+1035,Gus White,44,Male,Cairo,Finance,Master,36,94027.0,High,3,5.1,2021-03-10,8988.37,103015.37
+1036,Hana Brown,55,Female,Casablanca,Finance,High School,14,122601.0,Low,1,8.0,2022-02-18,8491.65,131092.65
+1037,Nia Smith,55,Male,Casablanca,Marketing,Master,34,59956.0,Low,5,10.0,2023-05-15,4016.37,63972.37
+1038,Dan Johnson,56,Female,Accra,HR,Bachelor,27,134797.0,High,8,2.7,2021-03-14,6760.82,141557.82
+1039,Hana Davis,38,Male,Accra,Support,Bachelor,6,154917.0,Medium,3,,2024-12-07,4827.86,159744.86
+1040,Bob Martin,59,Male,Kigali,Support,PhD,31,156303.0,Medium,0,4.9,2021-10-27,7960.21,164263.21
+1041,Finn Wilson,52,Male,Kigali,Marketing,Bachelor,10,166511.0,Top,1,3.7,2022-12-01,12419.18,178930.18
+1042,Jo Davis,44,Female,Cape Town,Support,Master,9,72533.0,High,2,2.8,2021-02-14,3112.17,75645.17
+1043,Vic Harris,43,Female,Cape Town,Finance,Master,8,108815.0,High,6,1.6,2024-03-26,19449.66,128264.66
+1044,Ravi Thomas,52,Female,Nairobi,Sales,High School,13,69279.0,High,3,9.0,2022-03-16,12307.22,81586.22
+1045,Leo Johnson,57,Male,Lagos,Engineering,Master,12,139787.0,High,5,4.8,2021-09-01,40509.73,180296.73
+1046,Jo Martin,32,Female,Kigali,HR,PhD,24,178702.0,Low,3,5.5,2021-03-02,9186.09,187888.09
+1047,Dan Martin,33,Male,Accra,HR,High School,1,91063.0,Medium,3,9.3,2023-07-22,6426.42,97489.42
+1048,Pia Taylor,43,Male,Cairo,Marketing,Master,34,157896.0,Medium,5,8.0,2024-01-11,16653.79,174549.79
+1049,Nia Moore,45,Male,Accra,HR,Bachelor,6,127661.0,Medium,2,2.2,2022-06-20,5890.36,133551.36
+1050,Yara Martin,55,Female,Lagos,Finance,Master,20,168051.0,High,4,6.1,2022-07-30,10167.5,178218.5
+1051,Hana Miller,61,Male,Cape Town,Support,Master,17,153257.0,Medium,3,5.0,2022-01-11,8968.86,162225.86
+1052,Pia Harris,50,Female,Accra,Finance,Bachelor,2,116205.0,Medium,8,8.2,2023-10-24,15922.22,132127.22
+1053,Ravi Miller,37,Female,Nairobi,Marketing,PhD,38,36910.0,Medium,3,7.5,2023-05-28,3361.72,40271.72
+1054,Xena Thomas,40,Male,Lagos,Finance,PhD,10,76857.0,Low,7,7.2,2024-05-19,9127.33,85984.33
+1055,Yara White,45,Male,Cape Town,Support,Master,38,,Medium,2,4.1,2023-06-09,2973.54,67937.54
+1056,Mia Anderson,42,Male,Cairo,Sales,Master,23,167050.0,Medium,8,8.2,2020-11-23,13130.26,180180.26
+1057,Omar Harris,33,Male,Cape Town,Marketing,Master,18,47153.0,Medium,8,1.5,2024-01-06,3939.03,51092.03
+1058,Alice Anderson,39,Male,Casablanca,Sales,Bachelor,3,89765.0,Low,4,2.4,2020-02-21,9116.74,98881.74
+1059,Gus Anderson,56,Male,Nairobi,Engineering,Master,25,138212.0,Medium,5,4.0,2021-01-10,16541.88,154753.88
+1060,Xena Smith,32,Female,Lagos,Sales,Bachelor,37,69071.0,High,3,1.7,2020-09-19,15092.57,84163.57
+1061,Leo Taylor,61,Male,Cairo,Engineering,Bachelor,31,142990.0,Medium,6,3.1,2020-09-23,31439.49,174429.49
+1062,Xena Jackson,39,Female,Nairobi,Engineering,Master,38,99519.0,Medium,4,8.5,2020-12-24,24454.93,123973.93
+1063,Sara Smith,32,Female,Cape Town,Sales,Bachelor,35,39503.0,High,2,9.5,2023-09-02,4831.4,44334.4
+1064,Hana Brown,29,Female,Nairobi,Marketing,High School,39,125457.0,Medium,5,3.7,2023-09-09,11205.16,136662.16
+1065,Cara Smith,27,Female,Lagos,Support,Bachelor,36,177977.0,Top,5,3.4,2024-08-16,6557.78,184534.78
+1066,Eve Thomas,48,Female,Kigali,Finance,Bachelor,32,75838.0,Medium,5,3.5,2021-10-13,5432.72,81270.72
+1067,Gus Thomas,34,Male,Nairobi,Finance,Master,35,155200.0,Medium,3,3.5,2024-05-05,12646.29,167846.29
+1068,Ivan White,51,Male,Casablanca,Support,Bachelor,2,119489.0,High,4,1.3,2024-07-10,7751.93,127240.93
+1069,Gus Anderson,39,Female,Nairobi,Engineering,Master,8,56806.0,Medium,2,9.3,2023-12-15,13378.33,70184.33
+1070,Hana White,36,Female,Cape Town,Engineering,Bachelor,7,100119.0,High,4,2.9,2020-02-15,20963.49,121082.49
+1071,Bob Smith,25,Male,Cape Town,Marketing,Master,32,68714.0,Medium,6,4.8,2021-08-22,6700.23,75414.23
+1072,Pia Moore,55,Male,Cairo,HR,Bachelor,5,85419.0,Top,4,1.1,2021-12-20,9720.23,95139.23
+1073,Wes Martin,32,Male,Cape Town,Sales,Bachelor,38,135432.0,Medium,3,8.7,2023-07-16,11635.0,147067.0
+1074,Xena Miller,45,Female,Accra,Engineering,Master,3,122949.0,Medium,3,7.6,2021-08-23,19194.82,142143.82
+1075,Cara White,41,Male,Lagos,Finance,Master,12,163533.0,High,4,9.5,2021-01-15,16679.15,180212.15
+1076,Hana Wilson,56,Male,Lagos,Marketing,Bachelor,1,175363.0,Low,9,8.0,2020-04-27,22489.0,197852.0
+1077,Cara Smith,43,Male,Kigali,Sales,High School,4,106971.0,Medium,5,3.8,2024-05-08,23948.37,130919.37
+1078,Cara Miller,36,Male,Kigali,Marketing,Bachelor,26,123471.0,High,3,3.2,2020-04-25,9145.13,132616.13
+1079,Omar Martin,59,Female,Lagos,Sales,High School,31,94946.0,High,7,7.3,2024-07-11,19572.75,114518.75
+1080,Cara Smith,62,Male,Casablanca,Sales,Master,20,128989.0,Medium,7,4.3,2020-09-16,25745.35,154734.35
+1081,Eve Thomas,59,Female,Kigali,Support,Bachelor,7,114080.0,High,6,6.1,2023-01-03,4133.45,118213.45
+1082,Wes Martin,34,Male,Cairo,Engineering,Bachelor,37,107794.0,Top,3,1.1,2024-02-12,19388.53,127182.53
+1083,Gus Jackson,51,Female,Cape Town,Marketing,Bachelor,7,60841.0,Top,3,1.6,2020-10-31,5534.54,66375.54
+1084,Ivan Thomas,25,Male,Lagos,Marketing,High School,2,154447.0,Low,7,5.8,2020-01-07,22830.67,177277.66999999998
+1085,Jo White,55,Male,Kigali,Support,Bachelor,2,150029.0,High,5,6.1,2020-12-31,5107.68,155136.68
+1086,Mia Brown,43,Female,Lagos,Finance,Bachelor,21,106272.0,Medium,6,7.8,2024-07-15,16567.69,122839.69
+1087,Gus Smith,49,Female,Accra,Finance,,5,67643.0,Top,4,2.2,2021-06-06,6771.28,74414.28
+1088,Tom Harris,63,Female,Nairobi,Engineering,Bachelor,1,73950.0,Medium,5,5.6,2023-10-03,18204.57,92154.57
+1089,Dan Martin,31,Female,Cape Town,Engineering,Master,22,130500.0,Low,1,2.8,2024-01-01,24012.29,154512.29
+1090, Eve Moore ,38,Female,Lagos,HR,Bachelor,1,155588.0,High,0,1.8,2023-05-23,13422.39,169010.39
+1091,Gus Harris,32,Male,Nairobi,Support,PhD,37,45997.0,Medium,9,4.7,2021-03-04,3064.81,49061.81
+1092,Omar Jackson,29,Female,Kigali,Finance,Bachelor,16,,Top,6,2.5,2022-03-01,17176.02,126927.02
+1093,Dan Harris,30,Male,Nairobi,Sales,Master,34,128605.0,Top,6,3.0,2024-03-01,26359.33,154964.33000000002
+1094,Gus Jackson,64,Female,Cape Town,Marketing,Master,33,85533.0,High,4,3.9,2024-04-12,4786.57,90319.57
+1095,Sara Wilson,37,Female,Lagos,Engineering,Master,22,112566.0,Low,3,3.3,2022-01-16,26836.87,139402.87
+1096,Bob Thomas,58,Female,Accra,Marketing,Master,29,,High,6,1.8,2021-01-01,11240.93,186883.93
+1097,Mia Martin,27,Male,Casablanca,Marketing,Bachelor,7,138255.0,Low,2,1.8,2020-11-08,12661.65,150916.65
+1098,Yara Miller,33,Male,Kigali,HR,Bachelor,21,88005.0,Low,2,2.7,2021-06-21,7382.48,95387.48
+1099,Finn White,60,Female,Lagos,Finance,Bachelor,35,73541.0,High,9,1.5,2022-07-09,7966.6,81507.6
+1100, Leo White ,62,Male,Cape Town,Engineering,Bachelor,4,53387.0,Medium,5,6.6,2022-12-13,10886.8,64273.8
+1101,Tom Martin,29,Female,Kigali,Marketing,High School,12,123980.0,Medium,4,3.6,2024-04-13,18553.93,142533.93
+1102,Kim Thomas,47,Female,Cairo,Engineering,Bachelor,28,115457.0,Top,3,3.5,2024-01-30,14668.06,130125.06
+1103,Wes White,22,Male,Nairobi,Sales,Master,30,174129.0,Medium,8,,2022-05-14,30702.15,204831.15
+1104,Yara Moore,25,Female,Casablanca,HR,Bachelor,15,,Medium,2,7.0,2023-04-02,6739.93,100767.93
+1105,Alice Smith,49,Male,Cape Town,Sales,Master,29,149246.0,Top,5,8.8,2022-02-20,14171.13,163417.13
+1106,Yara Jackson,57,Female,Cairo,Engineering,Master,15,85731.0,Low,4,7.8,2020-11-29,11294.83,97025.83
+1107,Yara Davis,58,Female,Lagos,Engineering,PhD,11,74638.0,High,3,7.5,2024-04-19,21634.17,96272.17
+1108,Mia Anderson,39,Male,Accra,Finance,Bachelor,16,,Top,5,5.4,2022-03-08,8371.48,58938.479999999996
+1109,Cara Moore,28,Male,Kigali,Marketing,Bachelor,15,87804.0,Top,2,7.2,2020-12-13,12354.39,100158.39
+1110,Finn Taylor,21,Female,Nairobi,Marketing,Bachelor,11,138821.0,High,2,6.0,2020-09-29,20705.61,159526.61
+1111,Ivan Martin,42,Male,Kigali,Sales,Bachelor,7,33754.0,Medium,3,2.9,2022-08-20,3586.27,37340.27
+1112,Eve Smith,37,Female,Casablanca,HR,Master,19,57044.0,Medium,8,2.9,2021-12-20,3903.81,60947.81
+1113,Sara Thomas,27,Male,Lagos,Support,Bachelor,2,97260.0,High,2,3.7,2024-11-08,5685.91,102945.91
+1114,Leo Taylor,45,Male,Kigali,Marketing,Master,15,96912.0,Top,5,9.2,2023-12-08,9534.23,106446.23
+1115,Omar Jackson,24,Male,Nairobi,Finance,Bachelor,29,38706.0,Medium,3,5.9,2021-05-14,4265.66,42971.66
+1116,Vic Taylor,56,Male,Lagos,Sales,,22,38894.0,Medium,4,7.6,2023-01-21,5004.56,43898.56
+1117,Ivan Davis,26,Male,Kigali,Sales,,27,179109.0,Low,4,4.1,2021-11-15,29385.89,208494.89
+1118,Quinn Martin,51,Female,Accra,Support,Bachelor,39,113986.0,Low,5,4.7,2020-03-19,6130.13,120116.13
+1119,Quinn Thomas,39,Male,Cape Town,Finance,Bachelor,4,111942.0,High,1,2.1,2021-09-13,8885.39,120827.39
+1120,Tom White,64,Male,Lagos,HR,Bachelor,19,59725.0,Medium,2,2.5,2023-05-25,4642.97,64367.97
+1121,Gus Johnson,59,Male,Cape Town,Finance,High School,39,166998.0,Top,2,8.4,2022-08-04,21111.32,188109.32
+1122,Cara Smith,47,Male,Lagos,HR,Bachelor,0,134555.0,High,1,6.3,2020-12-23,11521.0,146076.0
+1123,Eve Smith,30,Male,Accra,Finance,High School,29,39496.0,Medium,3,4.0,2021-09-09,3365.57,42861.57
+1124,Xena Smith,46,Female,Cape Town,Finance,Bachelor,20,86447.0,High,6,8.2,2021-05-21,12886.88,99333.88
+1125,Quinn Johnson,39,Female,Cairo,Engineering,Bachelor,19,131604.0,Medium,2,3.2,2024-05-01,13823.66,145427.66
+1126,Bob White,59,Male,Nairobi,Sales,Bachelor,5,118199.0,High,5,9.8,2023-04-19,15156.04,133355.04
+1127,Vic Moore,23,Female,Cairo,Finance,Master,21,71321.0,High,6,4.1,2021-07-29,10956.73,82277.73
+1128,Eve Smith,33,Female,Kigali,Support,High School,17,85147.0,High,5,,2023-06-23,4529.36,89676.36
+1129,Alice Brown,48,Male,Accra,Finance,Master,7,121396.0,High,7,3.8,2020-08-31,11088.25,132484.25
+1130,Bob Miller,40,Female,Cairo,Marketing,Bachelor,38,68787.0,Medium,6,2.1,2021-05-20,8219.72,77006.72
+1131,Leo Thomas,48,Female,Lagos,Sales,Bachelor,31,51727.0,Low,1,2.0,2021-02-25,8281.94,60008.94
+1132,Finn Moore,28,Male,Kigali,Marketing,Master,32,125081.0,High,4,6.8,2023-09-05,16213.54,141294.54
+1133,Dan Moore,61,Male,Kigali,Sales,High School,15,,Low,4,,2023-01-15,28292.14,181013.14
+1134,Kim Taylor,59,Female,Cairo,Marketing,Bachelor,11,98056.0,Medium,2,8.1,2020-08-04,10885.27,108941.27
+1135,Quinn Wilson,21,Female,Cairo,Finance,Bachelor,37,,Low,5,,2024-02-22,19465.48,183618.48
+1136,Xena Miller,23,Male,Accra,Finance,Bachelor,33,,High,7,5.9,2024-03-22,8365.75,118467.75
+1137,Tom Johnson,33,Female,Nairobi,Engineering,,13,,Medium,5,2.0,2023-07-25,16271.97,123136.97
+1138,Finn Wilson,48,Female,Cairo,Support,Bachelor,35,97695.0,High,3,1.4,2024-10-11,4489.57,102184.57
+1139,Kim Smith,45,Female,Casablanca,Marketing,Master,32,,Top,3,6.9,2022-10-05,16185.53,163420.53
+1140,Ivan White,53,Female,Cairo,HR,Bachelor,22,138777.0,Low,5,5.8,2023-04-07,11254.35,150031.35
+1141,Finn Harris,58,Female,Cape Town,Engineering,Bachelor,1,49033.0,Low,4,1.7,2020-11-25,7729.41,56762.41
+1142,Cara Davis,26,Male,Lagos,Marketing,Bachelor,20,,Medium,4,1.3,2021-10-11,8704.96,180581.96
+1143,Dan Brown,64,Male,Casablanca,Marketing,Master,1,56832.0,Top,5,9.9,2024-01-04,5661.83,62493.83
+1144,Zane Brown,52,Female,Casablanca,Engineering,High School,26,145725.0,Medium,0,1.3,2021-01-25,22897.07,168622.07
+1145,Sara Davis,41,Female,Cape Town,Finance,Bachelor,8,,Medium,2,5.0,2024-02-28,25929.14,200945.14
+1146,Gus Davis,36,Male,Cape Town,Marketing,Bachelor,0,49873.0,Low,3,5.5,2021-01-15,2613.08,52486.08
+1147,Ivan Smith,41,Female,Kigali,Finance,PhD,10,70372.0,High,3,2.1,2023-08-22,9160.98,79532.98
+1148,Hana Moore,31,Female,Nairobi,Engineering,Bachelor,2,119464.0,Medium,7,2.5,2022-01-11,34440.86,153904.86
+1149,Ravi Taylor,57,Male,Lagos,Finance,Bachelor,22,176451.0,High,5,4.2,2022-03-30,14280.02,190731.02
+1150,Alice Jackson,56,Female,Accra,Sales,,25,147322.0,Top,6,7.9,2021-11-03,21471.8,168793.8
+1151,Yara Anderson,55,Female,Casablanca,HR,Master,3,130082.0,Medium,5,5.6,2021-05-27,6154.67,136236.67
+1152,Ravi Moore,39,Female,Accra,Marketing,Bachelor,17,35110.0,High,4,6.7,2024-11-06,3952.27,39062.27
+1153,Jo Brown,40,Male,Cairo,Support,Bachelor,5,42087.0,Low,1,9.9,2022-08-06,2210.69,44297.69
+1154,Gus White,38,Male,Cairo,HR,Master,34,112617.0,Top,3,7.9,2023-04-26,8174.78,120791.78
+1155,Pia Thomas,61,Female,Accra,Finance,Master,21,130483.0,High,4,4.9,2022-07-18,15992.68,146475.68
+1156,Pia Anderson,34,Male,Cairo,Marketing,Bachelor,14,39596.0,Top,5,,2024-03-19,5529.88,45125.88
+1157,Tom White,35,Male,Nairobi,Finance,Master,21,137539.0,Low,5,6.6,2022-07-01,11492.11,149031.11
+1158,Quinn Johnson,51,Male,Cape Town,Sales,Bachelor,36,48313.0,Medium,6,7.0,2021-10-05,3787.0,52100.0
+1159,Alice Martin,21,Male,Cairo,Engineering,Bachelor,11,143175.0,Medium,7,5.5,2021-03-02,38991.27,182166.27
+1160,Leo Miller,23,Male,Kigali,engineering,High School,37,144914.0,Medium,5,6.8,2021-05-16,15608.93,160522.93
+1161,Eve Jackson,36,Male,Cairo,Sales,PhD,17,53705.0,Medium,3,1.2,2021-12-30,11202.8,64907.8
+1162,Wes Anderson,43,Male,Lagos,Sales,High School,34,103445.0,Medium,3,4.9,2023-07-07,17021.02,120466.02
+1163,Ivan Brown,31,Male,Nairobi,Marketing,Bachelor,29,,Low,4,3.5,2024-03-16,17542.01,151434.01
+1164,Sara Brown,32,Female,Lagos,Finance,High School,23,32023.0,Medium,6,2.2,2020-03-11,3572.51,35595.51
+1165,Tom Taylor,30,Female,Lagos,Support,Master,29,149654.0,High,5,1.9,2021-04-22,9352.33,159006.33
+1166,Vic Taylor,52,Male,Kigali,Sales,Bachelor,13,110073.0,Medium,7,6.4,2023-04-16,23330.66,133403.66
+1167,Alice Taylor,36,Female,Nairobi,HR,Bachelor,5,122197.0,Low,3,5.7,2021-04-01,10480.82,132677.82
+1168,Tom Jackson,28,Male,Nairobi,Sales,High School,2,94429.0,Medium,6,3.3,2020-07-07,9642.88,104071.88
+1169,Quinn Taylor,58,Female,Nairobi,Support,High School,15,,Low,1,5.2,2020-10-17,5158.44,139353.44
+1170,Dan Wilson,32,Female,Nairobi,Finance,Bachelor,6,63848.0,Top,4,5.4,2024-03-23,5352.85,69200.85
+1171,Hana Davis,44,Female,Nairobi,Finance,Master,13,1200000.0,Low,6,2.8,2024-11-23,15814.04,192265.04
+1172,Cara Martin,48,Female,Kigali,HR,Bachelor,8,57766.0,High,5,6.9,2022-07-08,3726.67,61492.67
+1173,Yara Brown,28,Female,Cairo,Sales,Bachelor,14,,Top,3,8.0,2020-10-18,15526.14,113625.14
+1174,Yara Harris,48,Female,Lagos,Finance,Master,20,99122.0,High,2,8.1,2022-01-25,12941.27,112063.27
+1175,Ravi Martin,56,Male,Nairobi,Support,High School,34,177159.0,High,5,6.4,2024-07-16,8206.89,185365.89
+1176,Ravi Johnson,46,Male,Casablanca,engineering,Bachelor,1,78868.0,High,6,5.6,2023-07-30,8797.1,87665.1
+1177,Vic Brown,28,Female,Cairo,Engineering,PhD,26,149119.0,Top,2,1.5,2024-04-16,17344.77,166463.77
+1178,Pia Harris,48,Male,Cairo,Engineering,Bachelor,1,125286.0,High,7,3.6,2021-01-11,14728.33,140014.33
+1179,Ivan Davis,48,Female,Lagos,Engineering,Bachelor,34,36643.0,High,10,1.8,2024-08-08,4923.57,41566.57
+1180,Alice Davis,57,Male,Kigali,Sales,Bachelor,17,66727.0,High,8,9.7,2023-03-25,10189.99,76916.99
+1181,Alice Martin,61,Male,Accra,HR,Bachelor,13,172077.0,Medium,5,2.2,2021-05-22,9828.96,181905.96
+1182,Uma Davis,56,Male,Accra,Finance,Bachelor,19,139079.0,High,0,2.4,2023-12-07,13072.61,152151.61
+1183,Xena Taylor,47,Male,Cairo,Marketing,High School,17,95697.0,Medium,2,9.0,2021-06-11,8615.72,104312.72
+1184,Gus Brown,37,Female,Cape Town,Support,High School,9,46029.0,Medium,2,9.5,2023-10-10,3019.19,49048.19
+1185,Quinn Smith,29,Male,Cape Town,Marketing,High School,24,175298.0,Low,6,7.9,2021-07-12,9007.9,184305.9
+1186,Pia White,53,Male,Lagos,engineering,PhD,1,139458.0,Low,4,1.0,2024-11-21,8014.5,147472.5
+1187,Sara Wilson,40,Male,Accra,Sales,Master,24,750000.0,Medium,3,1.0,2023-04-25,24613.73,164997.73
+1188,Wes Wilson,33,Male,Cairo,Engineering,Bachelor,32,98926.0,Low,3,4.4,2022-11-20,25694.16,124620.16
+1189,Nia Martin,48,Female,Kigali,Sales,,35,167069.0,High,7,2.3,2020-09-16,35905.29,202974.29
+1190,Finn Wilson,49,Male,Accra,HR,Master,30,85506.0,Medium,1,,2021-02-24,3557.99,89063.99
+1191,Mia Brown,33,Female,Cairo,HR,Bachelor,13,108229.0,High,5,5.2,2024-04-01,5660.67,113889.67
+1192,Vic Taylor,55,Female,Cairo,Support,Bachelor,0,72092.0,Low,1,9.5,2024-04-23,4996.59,77088.59
+1193,Bob Miller,26,Female,Nairobi,Finance,PhD,15,92539.0,Medium,4,3.9,2020-10-30,10644.04,103183.04000000001
+1194,Alice White,38,Female,Kigali,Finance,Bachelor,2,43428.0,High,2,7.0,2022-07-30,5547.97,48975.97
+1195,Omar Smith,25,Female,Nairobi,Support,Master,34,171330.0,High,7,6.9,2022-11-28,9963.07,181293.07
+1196,Eve White,45,Female,Lagos,HR,PhD,5,87775.0,Low,4,3.3,2024-02-21,8279.41,96054.41
+1197,Pia Brown,22,Male,Nairobi,HR,Bachelor,24,35469.0,Top,6,6.9,2024-07-25,4062.59,39531.59
+1198,Dan Brown,30,Male,Casablanca,HR,High School,12,,Top,6,2.9,2021-06-25,7048.12,65902.12
+1199,Quinn Smith,50,Male,Nairobi,Sales,Bachelor,33,167328.0,Medium,5,2.1,2024-08-20,30624.98,197952.98
+1200,Leo White,25,Male,Casablanca,HR,Master,7,106256.0,Medium,5,7.3,2023-07-25,6691.76,112947.76
+1201,Nia Miller,53,Female,Accra,Marketing,Master,20,129134.0,Top,5,2.0,2023-05-11,17817.29,146951.29
+1202,Finn Brown,21,Female,Cape Town,Engineering,Master,33,162723.0,High,7,10.0,2022-12-25,17874.17,180597.16999999998
+1203,Ivan Miller,38,Male,Cairo,HR,High School,3,114730.0,Medium,4,2.7,2020-04-17,6710.15,121440.15
+1204,Xena Harris,52,Male,Casablanca,Support,Master,24,57386.0,High,8,6.3,2020-09-24,4009.52,61395.52
+1205,Quinn Martin,31,Male,Kigali,Engineering,PhD,14,177256.0,Medium,2,4.7,2020-08-09,26807.9,204063.9
+1206,Uma Brown,41,Female,Nairobi,Sales,Master,3,63787.0,Medium,7,2.1,2024-04-02,6895.23,70682.23
+1207,Alice Davis,46,Female,Casablanca,Support,PhD,11,51621.0,Medium,0,1.3,2023-01-18,1647.03,53268.03
+1208,Uma Moore,45,Male,Kigali,Engineering,Master,31,107984.0,High,2,6.6,2021-11-23,29352.46,137336.46
+1209,Alice Brown,42,Female,Cape Town,Support,Master,31,64051.0,High,0,8.3,2020-09-11,3202.74,67253.74
+1210,Ravi Anderson,47,Female,Cape Town,Sales,Bachelor,27,79811.0,High,4,8.6,2024-01-18,14065.41,93876.41
+1211,Jo Wilson,33,Male,Nairobi,Marketing,Bachelor,12,60447.0,Medium,0,5.3,2020-09-09,4467.43,64914.43
+1212,Zane Brown,53,Female,Lagos,Sales,Bachelor,30,158046.0,Medium,4,8.0,2020-09-13,29824.24,187870.24
+1213,Hana Martin,54,Female,Nairobi,Sales,Master,13,114045.0,Medium,5,7.1,2021-01-17,21554.6,135599.6
+1214,Xena Johnson,61,Male,Accra,Support,Bachelor,19,146859.0,High,6,7.5,2021-03-17,5966.87,152825.87
+1215,Omar Wilson,55,Male,Casablanca,Finance,Master,17,175544.0,Medium,9,5.4,2021-08-21,19183.78,194727.78
+1216,Wes Johnson,21,Male,Cairo,HR,PhD,28,33471.0,Low,5,6.7,2023-01-18,1900.32,35371.32
+1217,Jo Johnson,41,Male,Lagos,HR,Master,5,150312.0,Top,5,8.2,2024-11-07,17755.59,168067.59
+1218,Zane Smith,26,Female,Nairobi,Marketing,High School,31,169401.0,Low,3,4.6,2021-01-24,19406.62,188807.62
+1219,Hana Smith,48,Female,Kigali,Marketing,Bachelor,28,76850.0,Top,1,8.3,2021-08-04,11024.47,87874.47
+1220,Ivan Jackson,37,Male,Lagos,HR,High School,1,,Low,5,6.3,2022-12-03,5412.89,89632.89
+1221,Vic Moore,25,Male,Casablanca,engineering,Master,22,,High,6,,2024-10-01,19045.0,142853.0
+1222,Jo Moore,51,Male,Lagos,HR,Master,18,167469.0,Low,3,1.2,2024-08-14,16959.37,184428.37
+1223,Zane Brown,25,Male,Casablanca,engineering,PhD,30,83072.0,Top,5,4.3,2021-08-20,11879.19,94951.19
+1224,Ravi Anderson,58,Female,Nairobi,Marketing,Bachelor,4,113820.0,Medium,6,5.9,2020-01-19,16681.9,130501.9
+1225,Xena Harris,23,Male,Casablanca,Engineering,PhD,18,53284.0,Low,3,8.6,2023-01-29,9522.44,62806.44
+1226,Zane Moore,43,Male,Lagos,Support,Master,33,113369.0,Medium,5,2.1,2021-08-29,3575.19,116944.19
+1227,Yara Davis,57,Male,Kigali,Marketing,Bachelor,9,55122.0,Medium,6,8.2,2024-11-24,6458.69,61580.69
+1228,Mia Davis,57,Female,Cape Town,Marketing,Master,24,,Medium,2,8.8,2023-10-12,19711.86,180060.86
+1229,Alice Taylor,30,Male,Lagos,Sales,Bachelor,1,100553.0,Top,3,2.4,2024-04-14,16215.08,116768.08
+1230,Nia Martin,30,Female,Casablanca,Sales,Bachelor,10,,Medium,3,8.7,2024-11-19,13230.36,138018.36
+1231,Leo Brown,39,Male,Cape Town,Sales,Master,30,92812.0,High,3,9.9,2020-02-02,13983.83,106795.83
+1232,Wes White,37,Female,Casablanca,Support,Bachelor,14,37999.0,High,1,7.5,2023-06-06,1543.12,39542.12
+1233,Bob Johnson,41,Female,Kigali,Sales,Master,8,52436.0,High,4,8.1,2024-03-27,7294.9,59730.9
+1234,Wes Wilson,34,Male,Casablanca,Finance,Master,22,72963.0,Low,4,9.9,2024-07-11,10027.03,82990.03
+1235, Sara Anderson ,29,Male,Nairobi,HR,Bachelor,18,163168.0,Medium,4,6.4,2022-05-11,16254.34,179422.34
+1236,Zane Martin,21,Female,Cairo,Engineering,Bachelor,8,138899.0,High,4,3.8,2020-06-03,20341.06,159240.06
+1237,Vic Thomas,33,Female,Lagos,Marketing,Bachelor,34,56201.0,Top,6,8.5,2023-12-17,5088.02,61289.020000000004
+1238,Zane Wilson,24,Male,Cairo,Finance,Bachelor,20,,Medium,3,6.5,2022-06-23,16258.54,192408.54
+1239,Quinn Davis,21,Male,Casablanca,Engineering,,8,35105.0,Medium,3,6.2,2023-06-23,4905.09,40010.09
+1240,Jo Wilson,60,Female,Kigali,Finance,Bachelor,27,147666.0,Medium,4,3.3,2021-02-08,22741.52,170407.52
+1241,Omar Wilson,52,Female,Lagos,Finance,High School,6,124848.0,Top,6,7.8,2022-04-23,21113.09,145961.09
+1242,Kim White,54,Male,Casablanca,Marketing,Bachelor,15,32839.0,Medium,4,1.7,2024-11-17,2857.76,35696.76
+1243,Eve Smith,48,Female,Cape Town,HR,Bachelor,15,98920.0,Medium,11,9.3,2024-04-13,9902.12,108822.12
+1244,Hana Miller,51,Male,Accra,Sales,Master,32,73619.0,Top,3,3.9,2023-03-30,15426.81,89045.81
+1245,Leo White,28,Female,Casablanca,Support,Master,3,72821.0,Low,6,2.1,2022-01-16,4901.31,77722.31
+1246,Eve Moore,59,Male,Cairo,HR,Bachelor,3,155736.0,Low,7,5.0,2024-09-21,8507.09,164243.09
+1247,Dan Wilson,46,Male,Lagos,Support,Bachelor,38,174565.0,High,2,1.4,2023-02-14,12710.88,187275.88
+1248,Mia Davis,54,Male,Cairo,Marketing,PhD,39,47069.0,Top,6,7.2,2020-09-27,4126.43,51195.43
+1249,Omar Brown,23,Female,Lagos,Marketing,Master,16,37531.0,Medium,3,9.1,2022-02-08,3149.75,40680.75
+1250,Wes Taylor,32,Male,Casablanca,Marketing,PhD,36,168808.0,Medium,2,,2024-09-11,9494.29,178302.29
+1251,Tom Harris,21,Male,Nairobi,Engineering,Master,38,168782.0,Medium,6,2.1,2024-02-19,33289.67,202071.66999999998
+1252,Ravi White,64,Male,Cape Town,Support,High School,28,97155.0,Medium,9,2.1,2020-06-20,2958.44,100113.44
+1253,Jo Martin,25,Male,Casablanca,HR,,35,175047.0,High,3,8.3,2020-09-30,10482.37,185529.37
+1254,Sara Smith,50,Female,Cairo,HR,Bachelor,37,92424.0,Medium,4,9.3,2020-09-15,6040.41,98464.41
+1255,Xena Brown,50,Male,Accra,Finance,Bachelor,38,75603.0,Medium,7,5.1,2023-03-04,11874.14,87477.14
+1256,Zane Moore,37,Female,Accra,Finance,Bachelor,36,162503.0,Medium,6,5.5,2024-09-02,26822.52,189325.52
+1257,Zane Miller,43,Female,Kigali,Finance,Bachelor,34,122573.0,High,2,3.9,2024-10-11,11803.28,134376.28
+1258,Zane Miller,35,Male,Lagos,Marketing,Bachelor,6,170629.0,Medium,7,9.0,2024-11-06,23183.33,193812.33000000002
+1259,Wes Anderson,57,Male,Cairo,HR,Master,26,133302.0,Top,3,6.8,2021-02-25,14473.73,147775.73
+1260,Leo Miller,41,Male,Kigali,Support,Master,27,161234.0,Low,3,3.6,2023-12-15,10195.24,171429.24
+1261,Alice Thomas,34,Male,Cairo,Marketing,Bachelor,21,49675.0,High,1,3.7,2023-04-24,3212.46,52887.46
+1262,Zane Smith,22,Male,Lagos,Engineering,Master,13,103997.0,High,4,,2020-12-29,24758.0,128755.0
+1263,Omar Johnson,31,Male,Casablanca,Finance,Bachelor,6,178087.0,Medium,6,1.1,2024-06-18,30880.8,208967.8
+1264,Vic Anderson,59,Female,Casablanca,Marketing,Master,36,170905.0,Medium,5,3.9,2021-01-12,20210.21,191115.21
+1265,Hana Harris,58,Male,Accra,Marketing,High School,21,37896.0,Medium,3,6.0,2024-03-26,3151.5,41047.5
+1266,Uma Smith,54,Male,Casablanca,Engineering,PhD,4,79733.0,Medium,6,2.3,2021-08-02,15955.84,95688.84
+1267,Pia Harris,58,Female,Casablanca,Sales,Master,1,71800.0,Medium,3,,2022-06-09,12339.46,84139.45999999999
+1268,Gus Miller,54,Male,Nairobi,HR,Bachelor,26,126044.0,Low,3,8.3,2021-12-22,10190.11,136234.11
+1269,Vic Harris,38,Female,Accra,Support,Bachelor,20,35347.0,Medium,3,9.0,2023-05-04,1095.67,36442.67
+1270,Wes Brown,50,Female,Kigali,Sales,Bachelor,37,163715.0,High,2,8.4,2022-05-30,19942.06,183657.06
+1271,Leo Thomas,35,Male,Cape Town,Finance,Bachelor,14,70785.0,Medium,7,9.1,2023-01-26,11062.81,81847.81
+1272,Pia Brown,47,Female,Nairobi,Marketing,Bachelor,20,48681.0,High,3,6.0,2021-08-27,6627.52,55308.520000000004
+1273,Eve Wilson,54,Male,Kigali,Engineering,Master,9,133864.0,Medium,7,8.3,2020-01-22,17062.31,150926.31
+1274,Yara Harris,58,Male,Lagos,Engineering,Bachelor,22,176964.0,Top,3,4.5,2024-01-13,51404.03,228368.03
+1275,Nia White,53,Male,Nairobi,HR,Master,38,77299.0,High,5,,2023-04-10,5125.37,82424.37
+1276,Eve Smith,44,Male,Kigali,Sales,PhD,4,47073.0,Low,1,9.9,2021-01-17,8207.04,55280.04
+1277,Nia Martin,35,Female,Lagos,HR,Bachelor,0,132304.0,High,5,3.0,2020-05-13,13249.72,145553.72
+1278,Tom Miller,50,Male,Accra,Marketing,Bachelor,12,60682.0,Low,3,4.5,2023-12-20,7961.15,68643.15
+1279,Leo Thomas,62,Male,Cape Town,HR,High School,20,154302.0,Medium,2,5.3,2022-11-14,17846.57,172148.57
+1280,Zane Miller,37,Male,Lagos,Support,Master,25,175361.0,Top,3,2.2,2021-05-17,7127.72,182488.72
+1281,Gus Davis,25,Female,Casablanca,Engineering,Bachelor,20,145359.0,Medium,9,1.7,2023-04-23,39494.23,184853.23
+1282,Alice Martin,49,Male,Cairo,Engineering,PhD,17,168999.0,Medium,3,8.5,2023-01-13,21350.89,190349.89
+1283,Eve Moore,24,Female,Lagos,Finance,Master,36,96707.0,High,3,9.8,2024-05-09,13984.31,110691.31
+1284,Zane Thomas,30,Male,Lagos,Finance,Bachelor,31,95428.0,Top,1,4.6,2024-11-21,14222.33,109650.33
+1285,Vic Miller,37,Female,Cape Town,Marketing,High School,35,80601.0,High,3,1.8,2020-05-23,9492.57,90093.57
+1286,Dan Johnson,30,Female,Cairo,Support,Master,16,163611.0,Medium,6,1.6,2024-08-29,6154.35,169765.35
+1287,Tom Thomas,37,Female,Casablanca,Sales,Master,34,141487.0,High,2,9.0,2023-12-06,29140.16,170627.16
+1288,Zane Brown,40,Female,Kigali,HR,Bachelor,10,179817.0,Medium,5,5.2,2020-08-11,9621.77,189438.77
+1289,Zane Smith,44,Male,Kigali,Marketing,Bachelor,20,58228.0,High,5,3.9,2020-08-07,3223.7,61451.7
+1290,Xena Miller,25,Female,Lagos,Finance,Master,25,152788.0,Top,3,5.3,2020-06-27,22321.68,175109.68
+1291,Mia Davis,54,Male,Cairo,HR,Bachelor,3,127239.0,High,5,3.9,2024-07-12,9929.48,137168.48
+1292,Pia Taylor,26,Male,Cairo,Finance,PhD,33,56928.0,Top,5,5.4,2021-03-08,9216.17,66144.17
+1293, Pia Moore ,22,Male,Casablanca,HR,Bachelor,17,48322.0,Low,3,8.7,2020-09-21,3415.0,51737.0
+1294,Bob Smith,33,Female,Cape Town,Sales,High School,39,117896.0,High,3,6.3,2022-08-11,11818.11,129714.11
+1295,Tom Taylor,63,Male,Accra,Marketing,Master,34,92292.0,High,7,7.3,2021-03-04,12334.29,104626.29000000001
+1296,Leo Johnson,63,Female,Kigali,HR,Bachelor,28,59055.0,Low,3,4.3,2024-08-12,4955.47,64010.47
+1297, Cara White ,31,Female,Cape Town,Support,Bachelor,28,500000.0,Top,3,7.6,2021-02-19,2511.81,75402.81
+1298,Alice Smith,43,Female,Nairobi,Engineering,High School,37,111912.0,Medium,4,7.0,2024-01-16,27315.12,139227.12
+1299,Sara Jackson,36,Female,Kigali,Support,High School,20,167660.0,High,2,2.1,2021-12-27,8476.17,176136.17
+1300,Eve White,51,Female,Cape Town,Support,Master,12,120536.0,High,3,6.2,2020-07-15,6655.47,127191.47
+1284,Zane Thomas,30,Male,Lagos,Finance,Bachelor,31,95428.0,Top,1,4.6,2024-11-21,14222.33,109650.33
+1223,Zane Brown,25,Male,Casablanca,Finance,PhD,30,83072.0,Top,5,4.3,2021-08-20,11879.19,94951.19
+1292,Pia Taylor,26,Male,Cairo,Finance,PhD,33,56928.0,Top,5,5.4,2021-03-08,9216.17,66144.17
+1167,Alice Taylor,36,Female,Nairobi,HR,Bachelor,5,122197.0,Low,3,5.7,2021-04-01,10480.82,132677.82
