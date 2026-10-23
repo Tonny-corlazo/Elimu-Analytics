@@ -3,3 +3,7 @@ pandas
 matplotlib
 seaborn
 numpy
+openai
+python-dotenv
+PySide6
+pyttsx3

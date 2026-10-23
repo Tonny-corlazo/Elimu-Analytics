@@ -2,146 +2,126 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.preprocessing import LabelEncoder
 
-sns.set_theme(
-    context='notebook',
-    style='darkgrid',
-    palette='deep',
-    font='sans-serif',
-    font_scale=1,
-    color_codes=True,
-    rc=None,
-)
+sns.set_theme(style='darkgrid', palette='viridis')
 
 # ─── PAGE SETUP ───
-st.set_page_config(
-    page_title="Elimu Analytics", 
-    layout="wide",
-    page_icon="🎓"
-    )
-
-# ─── TITLE ───
+st.set_page_config(page_title="Elimu Analytics", layout="wide", page_icon="🎓")
 st.title("🎓 Elimu Analytics")
-st.caption("Class 3A - Academic Perfomance Report")
-st.write("Upload a class marks CSV to generate the report.")
+st.caption("Automated Academic Performance & ML Risk Report")
 
 # ─── UPLOAD ───
 uploaded = st.file_uploader("Upload marks CSV", type=["csv"])
-
 if uploaded is None:
     st.info("👆 Upload a CSV to begin")
-    st.stop()   # stops the script here until a file is uploaded
+    st.stop()
 
-# ─── LOAD + ENRICH ───
-df = pd.read_csv(uploaded)
+# ───  CACHE DATA, NO RELOADS ON EVERY RERUNS ───
+@st.cache_data
+def load_and_train(file):
+    df = pd.read_csv(file)
+    
+    # Clean
+    df = df.drop_duplicates().dropna()
+    
+    # Features
+    df["percentage"] = (df["marks"] / df["out_of"] * 100).round(1)
+    df["exam_num"] = (df["term"] - 1) * 2 + df["exam_type"].map({"Opener": 1, "End Term": 2})
+    
+    le_dict = {}
+    for col in ['class', 'gender', 'subject']:
+        le = LabelEncoder()
+        df[col + '_encoded'] = le.fit_transform(df[col])
+        le_dict[col] = le
 
-# ==========  clean the dataframe ==============
-df.isna().sum()
+    df['At_Risk'] = (df["percentage"] < 50).astype(int)
 
-df.drop_duplicates()
-df.dropna()
+    features = ['class_encoded', 'term', 'gender_encoded', 'subject_encoded', 'exam_num']
+    X = df[features]
+    y = df['At_Risk']
 
-df["percentage"] = (df["marks"] / df["out_of"] * 100).round(1)
-df["exam_num"] = (df["term"] - 1) * 2 + df["exam_type"].map(
-    {"Opener": 1, "End Term": 2}
-)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    model = RandomForestClassifier(random_state=42, n_estimators=100)
+    model.fit(X_train, y_train)
+    
+    acc = accuracy_score(y_test, model.predict(X_test))
+    return df, model, features, acc
+
+df, model, features, accuracy = load_and_train(uploaded)
 
 # ─── KPI CARDS ───
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 col1.metric("Class Mean", f"{df['percentage'].mean():.1f}%")
 col2.metric("Students", df["student_id"].nunique())
 col3.metric("Subjects", df["subject"].nunique())
 col4.metric("Exams", df["exam_num"].nunique())
+col5.metric("Total At Risk", df["At_Risk"].sum())
+col6.metric("Model Accuracy", f"{accuracy * 100:.2f}%")
 
 st.divider()
 
-# ========== TOP STUDENT =============
-st.subheader("🎓 Top Student")
+# ─── TOP STUDENT ───
+st.subheader("🏆 Top Student")
+# Find the student with the highest average
+top_student_name = df.groupby("name")["percentage"].mean().idxmax()
+top_student_id = df[df["name"] == top_student_name]["student_id"].iloc[0]
+top_student_avg = df[df["name"] == top_student_name]["percentage"].mean()
 
-top_student_name = df.groupby(["name"])["percentage"].mean().idxmax()
-top_student_mean = df.groupby("name")["percentage"].mean().sort_values(ascending=False).reset_index().max()
+st.success(f"**{top_student_name}** (ID: {top_student_id}) - Overall Average: **{top_student_avg:.1f}%**")
 
-top_student = df.groupby(["student_id"])["percentage"].mean().idxmax()
-top_marks = df[df["student_id"] == top_student]
-
+# Show their specific subject breakdown
+top_marks = df[df["student_id"] == top_student_id]
 modified = top_marks.groupby("subject")["percentage"].mean().reset_index()
 
-
-st.caption(f"🎓 {top_student_name} {top_student_mean["percentage"]}")
-
-fig, ax = plt.subplots(figsize=(10, 4))
-sns.barplot(data=modified, x="subject", y="percentage", ax=ax, errorbar=None, palette="viridis", hue="subject")
-
+fig, ax = plt.subplots(figsize=(10, 3))
+sns.barplot(data=modified, x="subject", y="percentage", ax=ax, hue="subject", palette="viridis", legend=False)
 st.pyplot(fig)
 
 # ─── TABS ───
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Overview", "📈 Trends", "⚠️ At-Risk", "Top Students", "Gender Perfomance"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Overview", "📈 Trends", "⚠️ At-Risk (ML)", "Top 10 Students", "Gender Performance"])
 
 with tab1:
-    st.subheader("Subject Performance")
-
     fig, ax = plt.subplots(figsize=(10, 5))
-    sns.barplot(data=df, x="subject", y="percentage",
-                ax=ax, errorbar=None, hue="subject", legend=False,
-                palette="viridis")
+    sns.barplot(data=df, x="subject", y="percentage", ax=ax, hue="subject", palette="viridis", legend=False)
     ax.tick_params(axis="x", rotation=30)
     st.pyplot(fig)
 
 with tab2:
-    st.subheader("Class Progression")
-
     fig, ax = plt.subplots(figsize=(10, 5))
-    sns.lineplot(data=df, x="exam_num", y="percentage",
-                 marker="o", ax=ax, color="#4ade80")
+    sns.lineplot(data=df, x="exam_num", y="percentage", marker="o", ax=ax, color="#4ade80")
     st.pyplot(fig)
 
 with tab3:
-    st.subheader("Students Below 50% in Recent Exams")
-    recent = df[df["exam_num"].isin([5, 6])]
-    at_risk = (
-        recent.groupby("name")["percentage"]
-        .mean().sort_values()
-    )
-    at_risk = at_risk[at_risk < 50]
-    if len(at_risk) == 0:
-        st.success("No at-risk students 🎉")
-    else:
-        st.dataframe(at_risk.reset_index().rename(
-            columns={"percentage": "Recent Mean %"}
-        ))
+    st.subheader("🚨 Machine Learning Risk Analysis")
+    
+    col_a, col_b = st.columns(2)
+    
+    with col_a:
+        st.write("**Most Important Features (Why do students fail?)**")
+        importances = model.feature_importances_
+        imp_df = pd.DataFrame({'Feature': features, 'Importance': importances}).sort_values(by='Importance', ascending=False)
+        fig, ax = plt.subplots()
+        sns.barplot(data=imp_df, x='Importance', y='Feature', palette='rocket', ax=ax)
+        st.pyplot(fig)
+
+    with col_b:
+        st.write("**Students needing help in Mathematics**")
+        math_at_risk = df[(df["subject"] == 'Mathematics') & (df['At_Risk'] == 1)]
+        st.dataframe(math_at_risk[['name', 'class', 'percentage']].sort_values(by='percentage').head(10), use_container_width=True)
 
 with tab4:
-    st.subheader("Top 10 Perfoming Students")
-
-    top_students = (
-        df.groupby(["student_id", "name"])["percentage"]
-        .mean().head(10).reset_index()
-    )
-
+    # Sort values before getting head(10)
+    top_students = df.groupby(["student_id", "name"])["percentage"].mean().sort_values(ascending=False).head(10).reset_index()
     fig, ax = plt.subplots(figsize=(10, 5))
     sns.barplot(data=top_students, x="percentage", y="name", ax=ax, palette="viridis", errorbar=None)
-    ax.set_title("Top Students")
-    ax.set_ylabel("Name")
-    ax.set_xlabel("Percentage")
-
     st.pyplot(fig)
 
 with tab5:
-    st.subheader("Gender Perfomance")
-
     fig, ax = plt.subplots(figsize=(10, 5))
-    sns.barplot(data=df, x="subject", y="percentage", 
-            ax=ax,
-            palette="viridis",
-            alpha=0.9,
-            errorbar=None,
-            hue="gender"
-           )
-
-    ax .set_title("Subject Perfomance Gender Based", weight="bold")
-    ax.set_xlabel("Subect")
-    ax.set_ylabel("Percentage")
+    sns.barplot(data=df, x="subject", y="percentage", ax=ax, hue="gender", palette="viridis", errorbar=None)
     ax.legend(facecolor="#0e1117", labelcolor="white")
-    ax.tick_params(axis="x", rotation=30)
-
     st.pyplot(fig)
