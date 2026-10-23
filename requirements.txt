@@ -7,4 +7,4 @@ openai
 python-dotenv
 PySide6
 pyttsx3
-sklearn
+scikit-learn
